@@ -3,7 +3,7 @@
 	Achtung! Diese Datei wird für jede Sprache benötigt. In dieser Datei stehen sowohl die
 	grundlegenden Informationen für die Übersetzung als auch mögliche Einstellungen.
 	Zuletzt wird hier auch angegeben welche Dateien geladen werden sollen, im Normalfall
-	sollte nur der erste Abschnitt geändert werden. Das betrifft die vier Felder:
+	sollte nur der erste Abschnitt geändert werden. Das betrifft die fünf Felder:
 	-> name
 		-> Name der Sprache, wenn möglich in Englisch oder Deutsch
 	-> tag
@@ -22,6 +22,8 @@
 		-> Als Eingabe hier bitte "true" für kurz und "false" für lang.
 	-> expressions
 		-> Erlaubt das Parsen von einigen zusätzlichen Codes, Genauere Informationen hierzu im Abschnitt "Hardcoded Expressions"
+  -> leet
+    -> Wandelt automatisch bestimmte Buchstaben in Zahlen um somit ist die Ausgabe der Leet (1337) Sprache nachempfunden.
 
 #################################
 ## Hardcoded Expressions
@@ -101,6 +103,7 @@
 
 	<setting key="shortcolor"	  value="false" />
 	<setting key="expressions"	value="true" />
+  <setting key="leet"	        value="false" />
   
   <file name="AntiIdle.xml" />
   <file name="BaseControl.xml" />

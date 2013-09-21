@@ -38,7 +38,6 @@
 	<locale key="tradecommand_find_result"															text="§gold{0}§darkgreen verkauft §gold{1} {2}§darkgreen für §gold{3} {4}{If,{5}} §darkgreenund §gold{6} {7}{EndIf}§darkgreen!" />
 	<locale key="tradecommand_refresh_success"													text="§greenDie Läden und Infowände haben ihren Cache erneuert!" />
 
-	<locale key="storenotreserved"																			text="§redDer Laden ist momentan nicht belegt. Warum reservierst du ihn nicht?" />
 	<locale key="blockdestroydenied"																		text="§redDie Truhe ist mit einem Laden verknüpft und darf nicht abgebaut werden!" />
 	<locale key="storenotreserved"																			text="§redDer Laden ist momentan nicht belegt. Warum reservierst du ihn nicht?" />
 	<locale key="notrades"																							text="§redEs sind momentan keine Angebote verfügbar!" />

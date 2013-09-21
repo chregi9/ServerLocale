@@ -5,7 +5,7 @@
   <locale  key="chat_muted"	                                 text="§redDu bist gemuted wegen: {newline}§gold{0}{newline}§redRestzeit: §gold{Time,{1}}" />
   
   <!-- Commands -->
-  <locale  key="bancommand_autoremove"	                     text="§greyVorheriger Temporärer Ban von §gold{0}§grey wurde autoamtisch entfernt!" />
+  <locale  key="bancommand_autoremove"	                     text="§greyVorheriger Temporärer Ban von §gold{0}§grey wurde automatisch entfernt!" />
   <locale  key="bancommand_error"	                           text="§gold{0}§red ist bereits permanent gebannt wegen §gold{1}§red von §gold{2}§red!" />
   <locale  key="bancommand_ban"	                             text="§gold{0}§darkgreen hat §gold{1}§darkgreen permanent gebannt wegen: §gold{2}" />
   
