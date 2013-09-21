@@ -231,9 +231,9 @@
   <locale key="159-13"	text="Grün gefärbter Lehm" />
   <locale key="159-14"	text="Rot gefärbter Lehm" />
   <locale key="159-15"	text="Schwarz gefärbter Lehm" />
-  <locale key="170"	text="Strohballen" />
-  <locale key="172"	text="Gebrannter Lehm" />
-  <locale key="173"	text="Kohleblock" />
+  <locale key="170-0"	text="Strohballen" />
+  <locale key="172-0"	text="Gebrannter Lehm" />
+  <locale key="173-0"	text="Kohleblock" />
 	<!-- Items -->
 	<locale key="256-0"	text="Eisenschaufel" />
 	<locale key="257-0"	text="Eisenspitzhacke" />
@@ -379,7 +379,7 @@
 	<locale key="382-0"	text="Funkelnde Melone" />
 	<locale key="383-50"	text="Creeper-Ei" />
 	<locale key="383-51"	text="Skelett-Ei" />
-	<locale key="383-52"	text="Spinneen-Ei" />
+	<locale key="383-52"	text="Spinnen-Ei" />
 	<locale key="383-53"	text="Riesen-Ei" />
 	<locale key="383-54"	text="Zombie-Ei" />
 	<locale key="383-55"	text="Schleim-Ei" />
@@ -392,6 +392,7 @@
 	<locale key="383-62"	text="Magmawürfel-Ei" />
 	<locale key="383-63"	text="Enderdrachen-Ei" />
 	<locale key="383-64"	text="Wither-Ei" />
+  <locale key="383-65"	text="Fledermaus-Ei" />
 	<locale key="383-66"	text="Hexen-Ei" />
 	<locale key="383-90"	text="Schweine-Ei" />
 	<locale key="383-91"	text="Schaf-Ei" />
@@ -432,6 +433,11 @@
 	<locale key="405-0"	text="Netherziegel" />
 	<locale key="406-0"	text="Netherquarz" />
 	<locale key="407-0"	text="TNT-Lore" />
+  <locale key="417-0"	text="Eiserne Pferderüstung" />
+  <locale key="418-0"	text="Goldene Pferderüstung" />
+  <locale key="419-0"	text="Diamantene Pferderüstung" />
+  <locale key="420-0"	text="Leine" />
+  <locale key="421-0"	text="Namensschild" />
 	<locale key="2256-0"	text="13-Schallplatte" />
 	<locale key="2257-0"	text="Cat-Schallplatte" />
 	<locale key="2258-0"	text="Blocks-Schallplatte" />
