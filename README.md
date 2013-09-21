@@ -1,4 +1,4 @@
-GermanLocale
+ServerLocale
 ============
 
 Deutsche Sprachausgabe für Arandur
