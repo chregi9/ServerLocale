@@ -33,7 +33,7 @@
   <locale  key="languagecommand_success"	                  text="§darkgreenDeine Sprache wurde geändert auf: §gold{0}" />
   
   <locale  key="measurecommand_set"	                        text="§darkgreenMeasure wurde {If,{0}}§greenaktiviert{Else}§reddeaktiviert{EndIf}§darkgreen!" />
-  <locale  key="measurecommand_info"	                      text="§darkgreenBlicke mit einem §gold{0}§darkgreen sowohl Rechts als auch Links auf Blöcke um einen Bereich zu makieren!{newline}Der Bereich kann nachträglich wieder bearbeitet werden" />
+  <locale  key="measurecommand_info"	                      text="§darkgreenKlicke mit einem §gold{0}§darkgreen sowohl Rechts als auch Links auf Blöcke um einen Bereich zu makieren!{newline}Der Bereich kann nachträglich wieder bearbeitet werden" />
   
   <locale  key="playerconfig_set"	                          text="§darkgreenDer Wert §gold{0}§darkgreen wurde {If,{1}}§greenaktiviert{Else}§reddeaktiviert{EndIf}§darkgreen!" />
   
@@ -47,9 +47,9 @@
   <locale  key="statscommand_stats"	                        text="§darkgreenServer Statistiken von §gold{0}§darkgreen:" />
   <locale  key="statscommand_pms"	                          text="§darkgreenErhaltene/Geschriebene/Gelesene PMs: §gold{0}§darkgreen/§gold{1}§darkgreen/§gold{2}" />
   <locale  key="statscommand_messages"	                    text="§darkgreenGeschriebene Nachrichten: §gold{0}" />
-  <locale  key="statscommand_commands"	                    text="§darkgreenAusgeführte Befehle§darkgreen: §gold{0}" />
-  <locale  key="statscommand_maxonline"	                    text="§darkgreenInsgesamt Onlinezeit§darkgreen: §gold{Time,{0}}" />
-  <locale  key="statscommand_curonline"	                    text="§darkgreenAktuelle Onlinezeit§darkgreen: §gold{Time,{0}}" />
+  <locale  key="statscommand_commands"	                    text="§darkgreenAusgeführte Befehle: §gold{0}" />
+  <locale  key="statscommand_maxonline"	                    text="§darkgreenInsgesamt Onlinezeit: §gold{Time,{0}}" />
+  <locale  key="statscommand_curonline"	                    text="§darkgreenAktuelle Onlinezeit: §gold{Time,{0}}" />
   
   <locale  key="whocommand_empty"	                          text="§redEs sind keine Spieler online!" />
   <locale  key="whocommand_output"	                        text="§darkgreenEs sind §gold{0}§darkgreen Spieler online: §reset{1}" />

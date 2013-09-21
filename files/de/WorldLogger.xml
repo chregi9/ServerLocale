@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <worldlogger>
   <!-- Log System -->
-  <locale  key="ignore"	                                    text="§gold{0}§red ignoriert deine Nachrichten!" />
   <locale  key="coords"	                                    text="§gold{If,{0}}Block{Else}Container{EndIf}§darkgreen Info für §gold{1} {2}x {3}y {4}z" />
   <locale  key="block"	                                    text="§gold{Date,dd.MM.yyyy HH:mm,{0}} -> ({If,{1}}Gesetzt{Else}Abgebaut{EndIf}) {2} §green| {3}:{4}" />
   <locale  key="container"	                                text="§gold{Date,dd.MM.yyyy HH:mm,{0}} -> ({If,{1}Raus{Else}Rein{EndIf}) {2} §green| {3}:{4} ({5})" />

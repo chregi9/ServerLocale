@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<worldlogger>
+<unlockmanager>
   <!-- Unlock System -->
   <locale  key="unlock_login_guest"	                        text="§greenDein zuständiger Freischalter ist wieder online!" />
   <locale  key="unlock_login_staff"	                        text="§greenDein Gast ist wieder online!" />
@@ -56,4 +56,4 @@
   <locale  key="umoveacceptcommand_source"	                text="§gold{0}§darkgreen nimmt deine Anfrage an und übernimmt die Freischaltung von §gold{1}§darkgreen!" />
   <locale  key="umoveacceptcommand_target"	                text="§greenDu hast die Freischaltung übernommen!" />
   <locale  key="umoveacceptcommand_guest"	                  text="§darkgreenDu wirst nun von §gold{0}§darkgreen weiter freigeschaltet!" />
-</worldlogger>
+</unlockmanager>
