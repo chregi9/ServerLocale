@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<teleportmanager>
+  <!-- Teleport Add System -->
+  <locale  key="zonecollision"	                             text="§redDer neue Teleport kollidiert mit dem Teleport §gold{0}§red!" />
+  <locale  key="zonesuccesfully"	                           text="§darkgreenDer neue Teleport(§gold{0}§darkgreen) wurde erfolgreich erstellt!" />
+  
+  <!-- Shared Messages -->
+  <locale  key="shared_unknowntype"	                         text="§redDer Warp Typ §gold{0}§red wurde nicht gefunden!" />
+  <locale  key="shared_unknownwarp"	                         text="§redDer Warp §gold{0}§red wurde nicht gefunden!" />
+  <locale  key="shared_unknownteleport"	                     text="§redDer Teleport §gold{0}§red wurde nicht gefunden!" />
+  
+  <!-- Commands -->
+  <locale  key="homecommand_success_self"	                   text="§greenDu wurdest nach Hause teleportiert" />
+  <locale  key="homecommand_success_other"	                 text="§darkgreenDu wurdest zum Zuhause von §gold{0}§darkgreen teleportiert!" />
+  <locale  key="homecommand_error_self"	                     text="§redDu hast bisher kein Zuhause gesetzt!" />
+  <locale  key="homecommand_error_self_world"	               text="§redDu kannst deinen Homepunkt nicht Weltübergreifend nutzen!" />
+  <locale  key="homecommand_error_other"	                   text="§gold{0}§red hat bisher kein Zuhause gesetzt!" />
+  
+  <locale  key="sethomecommand_self"	                       text="§greenDu hast dein Zuhause erfolgreich hier gesetzt!" />
+  <locale  key="sethomecommand_self_pvperror"	               text="§redIn Welten mit PvP ist dieser Befehl deaktiviert!" />
+  <locale  key="sethomecommand_other"	                       text="$darkgreenDu hast das Zuhause von §gold{0}§darkgreen an diesen Punkt versetzt!" />
+  
+  <locale  key="setwarpcommand_error"	                       text="§redDer Warp konnte wegen einem unbekannten Fehler nicht angelegt werden!" />
+  <locale  key="setwarpcommand_success"	                     text="§darkgreenDer Warp §gold{0}§darkgreen wurde als §gold{1}§darkgreen Warp angelegt!" />
+
+  <locale  key="deletewarpcommand_delete"	                   text="§redDer Warp §gold{0}§red wurde gelöscht!" />
+  
+  <locale  key="warpcommand_warp"	                           text="§darkgreenDu wurdest erfolgreich zum Warp §gold{0}§darkgreen teleportiert!" />
+  
+  <locale  key="warpscommand_empty"	                         text="§redEs wurden keine Warps {If,{0}}für §gold{1}§red {EndIf} gefunden!" />
+  <locale  key="warpscommand_list"	                         text="{If,{0}}§gold{1}§darkgreen hat{Else}§darkgreenEs gibt{EndIf} §gold{2}§darkgreen Warps: {newline}§gold{3}" />
+
+  <locale  key="teleportcommand_edit_group"	                 text="§darkgreenDer Teleport §gold{0}§darkgreen benötigt nun die Gruppe §gold{1}§darkgreen!" />
+  <locale  key="teleportcommand_edit_warp"	                 text="§darkgreenDer Teleport §gold{0}§darkgreen teleportiert nun zum Warp §gold{1}§darkgreen!" />
+  <locale  key="teleportcommand_edit_time"	                 text="§darkgreenDer Teleport §gold{0}§darkgreen teleportier nun alle §gold{Time,{1}}§darkgreen!" />
+  <locale  key="teleportcommand_delete"	                     text="§redDer Teleport §gold{0}§red wurde gelöscht!" />
+  <locale  key="teleportcommand_add"	                       text="§greenErstellung des Teleports wurde gestartet!" />
+</teleportmanager>

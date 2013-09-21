@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<modcontrol>
+  <!-- Server Login and Logout System -->
+  <locale  key="isfull"	                                     text="§redEs sind alle Slots auf dem Server belegt!" />
+  
+  <!-- Shared Messages -->
+  <locale  key="shared_defaultstop"	                         text="§redDer Server wird heruntergefahren!" />
+  
+  <!-- Commands -->
+  <locale  key="maintenancecommand"	                         text="{If,{0}}§greenWartung aktiviert!{Else}§redWartung deaktiviert!{EndIf}" />
+  <locale  key="maintenancecommand_message"	                 text="§darkgreenDie Wartungsnachricht wurde gesetzt auf: §gold{0}" />
+  
+  <locale  key="reloadcommand"	                             text="§grayLade §darkgray{0} §grayneu..." />
+  
+  <locale  key="saveallcommand_save"	                       text="§graySpeichere §darkgrayWelten§gray..." />
+  <locale  key="saveallcommand_done"	                       text="§darkgrayWelten§gray wurden erfolgreich gespeichert..." />
+  
+  <locale  key="saveoncommand_done"	                         text="§grayAutomatisches Speichern §darkgrayaktiviert§gray..." />
+  
+  <locale  key="saveoffcommand_done"	                       text="§grayAutomatisches Speichern §darkgraydeaktiviert§gray..." />
+  
+	<locale key="serverconfigcommand_slots_get"          			 text="§darkgreenDer Server hat momentan §gold{0}§darkgreen Slots zu Verfügung" />
+	<locale key="serverconfigcommand_slots_set"          			 text="§darkgreenEs können nun insgesamt §gold{0}§darkgreen Spieler dem Server beitreten!" />
+	<locale key="serverconfigcommand_motd_get"          			 text="§darkgreenDie Motd in der Serverliste ist:{newline}§reset{0}" />
+	<locale key="serverconfigcommand_motd_set"          			 text="§darkgreenDie Motd wurde gesetzt auf:{newline}§reset{0}" />
+	<locale key="serverconfigcommand_cmd_get"          				 text="§darkgreenDer Befehl §gold{0} §darkgreenkann von der Gruppe §gold{1} §darkgreenbenutzt werden." />
+	<locale key="serverconfigcommand_cmd_set"          				 text="§darkgreenDer Befehl §gold{0} §darkgreenkann nun von der Gruppe §gold{1} §darkgreenbenutzt werden." />
+	<locale key="serverconfigcommand_material_get"        		 text="§darkgreenDas Material §gold{0}§darkgreen kann mit der Gruppe §gold{1}§darkgreen platziert werden und ist in Zonen {If,{2}}§greenErlaubt{Else}§redVerboten{EndIf}" />
+	<locale key="serverconfigcommand_material_set"        		 text="§darkgreenDas Material §gold{0}§darkgreen kann nun mit der Gruppe §gold{1}§darkgreen platziert werden und ist in Zonen {If,{2}}§greenErlaubt{Else}§redVerboten{EndIf}" />
+	<locale key="serverconfigcommand_deflang_get"       		 	 text="§darkgreenDie Standardsprache ist §gold{0} §darkgreen({1}§darkgreen)" />
+	<locale key="serverconfigcommand_deflang_set"       	 	 	 text="§darkgreenDie Standardsprache wurde geändert auf §gold{0} §darkgreen({1}§darkgreen)" />
+	<locale key="serverconfigcommand_unknownmaterial"        	 text="§redEs gibt kein Material für die Id §gold{0}§red und der SubId §gold{1}" />
+	<locale key="serverconfigcommand_unknownlocale"        		 text="§redDie angegebene Sprache §gold{0}§red ist unbekannt!" />
+	<locale key="serverconfigcommand_unknowncommand"        	 text="§redDer angegebene Befehl §gold{0}§red existiert nicht!" />
+  
+  <locale  key="setgroupcommand_add_group_success"           text="§darkgreenDer Spieler §gold{0} §darkgreenwurde zur Gruppe §gold{1} §darkgreenhinzugefügt." />
+  <locale  key="setgroupcommand_add_group_fail"              text="§darkgreenDer Spieler §gold{0} §darkgreenist bereits in der Gruppe §gold{1}§darkgreen." />
+  <locale  key="setgroupcommand_add_groups"                  text="§darkgreenDer Spieler §gold{0} §darkgreenwurde §gold{1} §darkgreenneuen Gruppen hinzugefügt." />
+  <locale  key="setgroupcommand_del_group_success"           text="§darkgreenDer Spieler §gold{0} §darkgreenwurde aus der Gruppe §gold{1} §darkgreenentfernt." />
+  <locale  key="setgroupcommand_del_group_fail"              text="§darkgreenDer Spieler §gold{0} §darkgreenist nicht in der Gruppe §gold{1}§darkgreen." />
+  <locale  key="setgroupcommand_del_groups"                  text="§darkgreenDer Spieler §gold{0} §darkgreenwurde §gold{1} §darkgreenGruppen entfernt." />
+  <locale  key="setgroupcommand_display"                     text="§darkgreenDer Spieler §gold{0} §darkgreenhat die Anzeigegruppe §gold{1}§darkgreen." />
+  <locale  key="setgroupcommand_copy"                        text="§darkgreenDer Spieler §gold{0} §darkgreenhat nun alle Gruppen von §gold{1}§darkgreen." />
+  <locale  key="setgroupcommand_list_displaygroup"           text="§darkgreenAnzeigegruppe: §gold{0}" />
+  <locale  key="setgroupcommand_list_groups"                 text="§darkgreenGruppen: §gold{0}" />
+  
+  <locale  key="worldconfigcommand_create_success"           text="§darkgreenDie Welt §gold{0} §darkgreenwurde erfolgreich erstellt." />
+  <locale  key="worldconfigcommand_create_fail"              text="§redDie Welt §gold{0} §redexistiert bereits." />
+  <locale  key="worldconfigcommand_delete"                   text="§darkgreenDie Welt §gold{0} §darkgreenwurde gelöscht." />
+  <locale  key="worldconfigcommand_edit"                     text="§darkgreenDie Einstellung §gold{0}§darkgreen der Welt §gold{1}§darkgreen wurde auf §gold{2}§darkgreen geändert." />
+  <locale  key="worldconfigcommand_edit_gm_error"            text="§redDer Gamemode §gold{0} §redwurde nicht gefunden!" />
+  <locale  key="worldconfigcommand_edit_difficulty_error"    text="§redDie Schwierigkeit muss zwischen 0 und 3 liegen!" />
+</modcontrol>

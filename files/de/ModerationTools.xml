@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<moderationtools>
+  <!-- Ban and Mute System -->
+  <locale  key="login_banned"	                               text="§redDu bist gebannt aus folgendem Grund:{newline}§gold{0}§red{If,{1}}{newline}Restzeit: §gold{Time,{2}}{EndIf}" />
+  <locale  key="chat_muted"	                                 text="§redDu bist gemuted wegen: {newline}§gold{0}{newline}§redRestzeit: §gold{Time,{1}}" />
+  
+  <!-- Commands -->
+  <locale  key="bancommand_autoremove"	                     text="§greyVorheriger Temporärer Ban von §gold{0}§grey wurde autoamtisch entfernt!" />
+  <locale  key="bancommand_error"	                           text="§gold{0}§red ist bereits permanent gebannt wegen §gold{1}§red von §gold{2}§red!" />
+  <locale  key="bancommand_ban"	                             text="§gold{0}§darkgreen hat §gold{1}§darkgreen permanent gebannt wegen: §gold{2}" />
+  
+  <locale  key="executecommand_execute"	                     text="§gold{0}§darkgreen führt den Befehl §gold{1}§darkgreen aus!" />
+  
+  <locale  key="flycommand_self"	                           text="§darkgreenFly wurde §gold{If,{0}}aktiviert{Else}deaktiviert{EndIf}" />
+  <locale  key="flycommand_other"	                           text="§gold{0}§darkgreen hat Fly bei §gold{1} {If,{2}}aktiviert{Else}deaktiviert{EndIf}" />
+  
+  <locale  key="gamemodecommand_error"	                     text="§redEs wurde kein GameMode zu §gold{0}§red gefunden!" />
+  <locale  key="gamemodecommand_changed"	                   text="§gold{0}§darkgreen hat den GameMode von §gold{1}§darkgreen geändert auf §gold{2}§darkgreen geändert!" />
+
+  <locale  key="invisiblecommand_invis"	                     text="§darkgreenUnsichtbarkeit wurde {If,{0}}aktiviert{Else}deaktiviert{EndIf}" />
+
+  <locale  key="kickcommand_kick"	                           text="§gold{0}§darkgreen hat den Spieler §gold{1}§darkgreen aus dem Spiel geworfen!{newline}§darkgreenGrund: §gold{2}" />
+
+  <locale  key="mutecommand_error"	                         text="§gold{0}§red ist bereits gemuted!" />
+  <locale  key="mutecommand_mute"	                           text="§gold{0}§darkgreen hat §gold{1}§darkgreen gemuted wegen: §gold{2}§darkgreen für §gold{Time,{3}}" />
+  <locale  key="mutecommand_mute_public"	                   text="§yellow{0} wurde für {Time,{1}} gemuted wegen: {2}" />
+  
+  <locale  key="setspawncommand_set"	                       text="§gold{0}§darkgreen hat den Spawn der Welt §gold{1}§darkgreen versetzt!" />
+  
+  <locale  key="tempbancommand_error"	                       text="§gold{0}§red ist bereits gebannt!" />
+  <locale  key="tempbancommand_ban"	                         text="§gold{0}§darkgreen hat §gold{1}§darkgreen temporär gebannt wegen: §gold{2}§darkgreen für §gold{Time,{3}}" />
+
+  <locale  key="timecommand_set"	                           text="§gold{0}§darkgreen hat die Zeit in der Welt §gold{1}§darkgreen gesetzt auf §gold{2}§darkgreen!" />
+
+  <locale  key="unbancommand_error"	                         text="§gold{0}§red ist nicht gebannt!" />
+  <locale  key="unbancommand_unban"	                         text="§gold{0}§darkgreen hat §gold{1}§darkgreen entbannt!" /> 
+
+  <locale  key="unmutecommand_error"	                       text="§gold{0}§red ist nicht gemuted!" />
+  <locale  key="unmutecommand_unmute"	                       text="§gold{0}§darkgreen hat §gold{1}§darkgreen entmuted!" />
+  
+  <locale  key="warppositioncommand_success"	               text="§gold{0}§darkgreen hat §gold{1}§darkgreen nach §gold{2}x {3}y {4}z§darkgreen in der Welt §gold{5}§darkgreen teleportiert!" />
+  
+  <locale  key="warpmebackcommand_clear"	                   text="§greenDein Teleportverlauf wurde geleert!" />
+  <locale  key="warpmebackcommand_error"	                   text="§redDu hast dich bisher nicht teleportiert!" />
+  <locale  key="warpmebackcommand_back"	                     text="§greenDu wurdest zu deiner letzten Position teleportiert!" />
+  
+  <locale  key="warpmetocommand_error"	                     text="§redDu konntest nicht zu §gold{0}§red teleportiert werden!" />
+  <locale  key="warpmetocommand_success"	                   text="§darkgreenDu wurdest erfolgreich zu §gold{0}§darkgreen ({If,{1}}§greenOnline{Else}§redOffline{EndIf}§darkgreen) teleportiert!" />
+  
+  <locale  key="warptomecommand_success"	                   text="§gold{0}§darkgreen wurde erfolgreich zu dir teleportiert!" />
+  
+  <locale  key="weathercommand_sun"	                         text="§gold{0}§darkgreen hat das Wetter in der Welt §gold{1}§darkgreen geändert auf: §goldSonne" />
+  <locale  key="weathercommand_rain"	                       text="§gold{0}§darkgreen hat das Wetter in der Welt §gold{1}§darkgreen geändert auf: §goldRegen" />
+  <locale  key="weathercommand_storm"	                       text="§gold{0}§darkgreen hat das Wetter in der Welt §gold{1}§darkgreen geändert auf: §goldSturm" />
+  
+  <locale  key="worldcommand_teleport"	                     text="§darkgreenDu wurdest erfolgreich in die Welt §gold{0}§darkgreen teleportiert!" />
+  
+  <locale  key="worldscommand_list"	                         text="§darkgreenEs gibt §gold{0}§darkgreen Welten: §gold{1}" />
+</moderationtools>

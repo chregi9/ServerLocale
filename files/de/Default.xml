@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<default>
+	<!-- Default Output for insufficient Rights for Commands Message -->
+	<locale key="insufficientrights"		text="§redNicht genügend Rechte für diesen Befehl!" />
+
+	<!-- Default Outputs for often used text passages -->
+	<locale key="onlyplayers"						text="§redNur Spieler dürfen diese Aktion durchführen!" />
+  <locale key="unknownplayer"					text="§redDer Spieler §gold{0}§red wurde nicht gefunden!" />
+	<locale key="notonline"							text="§redDer Spieler §gold{0}§red ist momentan nicht online!" />
+  <locale key="unknownworld"					text="§redDie Welt §gold{0}§red wurde nicht gefunden!" />
+	<locale key="unknownnumber"					text="§redDer angegebene Wert §gold{0}§red ist keine Zahl!" />
+	<locale key="unknownitem"						text="§redEs wurde kein übereinstimmendes Item zu §gold{0}§red gefunden!" />
+	<locale key="unknownmaterial"				text="§redEs wurde kein passendes Material zu §gold{0}§red gefunden!" />
+  <locale key="unknowntime"				    text="§redKonnte Zeitangabe §gold{0}§red nicht auflösen!" />
+  <locale key="unknowngroup"				  text="§redDie Gruppe §gold{0}§red wurde nicht gefunden!" />
+  <locale key="unknownzonetype"				text="§redDer Zonentyp §gold{0}§red wurde nicht gefunden!" />
+  
+  <!-- Zone System Find and Create Messages -->
+  <locale key="zone_posa_cuboid"	    text="§darkgreenKlicke mit einem §gold{0}§darkgreen nun den ersten Eckpunkt an!" />
+  <locale key="zone_posa_sphere"	    text="§darkgreenKlicke mit einem §gold{0}§darkgreen nun den Mittelpunkt an!" />
+  <locale key="zone_posa_cylinder"	  text="§darkgreenKlicke mit einem §gold{0}§darkgreen nun den Mittelpunkt an!" />
+  <locale key="zone_posa"					    text="§darkgreenPosition §goldA§darkgreen gesetzt bei: §gold{0}x {1}y {2}z" />
+  <locale key="zone_posb_cuboid"	    text="§darkgreenKlicke nun den zweiten Eckpunkt an!" />
+  <locale key="zone_posb_sphere"	    text="§darkgreenKlicke nun den gewünschten Radius(Entfernung) an!" />
+  <locale key="zone_posb_cylinder"	  text="§darkgreenKlicke nun den gewünschten Radius(Entfernung) inklusive der Höhe an!" />
+  <locale key="zone_posb"			        text="§darkgreenPosition §goldB§darkgreen gesetzt bei: §gold{0}x {1}y {2}z" />  
+
+	<!-- The Time -->
+	<locale key="millisecond"						text="Millisekunde" />
+	<locale key="milliseconds"					text="Millisekunden" />
+	<locale key="second"								text="Sekunde" />
+	<locale key="seconds"								text="Sekunden" />
+	<locale key="minute"								text="Minute" />
+	<locale key="minutes"								text="Minuten" />
+	<locale key="hour"									text="Stunde" />
+	<locale key="hours"									text="Stunden" />
+	<locale key="day"										text="Tag" />
+	<locale key="days"									text="Tage" />
+	<locale key="month"									text="Monat" />
+	<locale key="months"								text="Monate" />
+	<locale key="year"									text="Jahr" />
+	<locale key="years"									text="Jahre" />
+  
+  <!-- The Months -->
+  <locale key="january"								text="Januar" />
+  <locale key="february"							text="Februar" />
+  <locale key="march"									text="März" />
+  <locale key="april"									text="April" />
+  <locale key="may"								   	text="Mai" />
+  <locale key="june"									text="Juni" />
+  <locale key="juli"									text="Juli" />
+  <locale key="september"							text="September" />
+  <locale key="october"								text="Oktober" />
+  <locale key="november"							text="November" />
+  <locale key="december"							text="Dezember" />
+</default>

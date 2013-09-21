@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<eventhandler>
+  <!-- Shared Messages -->
+  <locale  key="shared_missingrights"	                       text="§redDu musst dich erst freischalten um aktiv am Spiel teilzunehmen!" />
+  <locale  key="shared_destroydepth"	                       text="§redIn öffentlichen Gebieten kann unter Ebene §gold{0}§red} kein §gold{1}§red abgebaut werden!" />
+  <locale  key="shared_museum"	                             text="§redDiese Aktion wurde in dieser Welt deaktiviert!" />
+  <locale  key="shared_tamed_horse"	                         text="§redDieses Pferd wurde bereits von §gold{0}§red gezähmt!" />
+  <locale  key="shared_worldradius"	                         text="§redDer Zielpunkt befindet sich ausserhalb des Maplimits!" />
+  <locale  key="shared_infopvpworld"	                       text="§goldAchtung: §redSolltest du dich in dieser Welt kurz nachdem dir ein Spieler Schaden{newline}zugefügt hat ausloggen (§gold{0}§red Sek.) verlierst du dein Inventar!" />
+ 
+</eventhandler>

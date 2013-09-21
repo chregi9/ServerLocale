@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<commandlinker>
+  <!-- Info System -->
+	<locale key="info_found"																				text="§darkgreenLink gefunden: §gold{0}§white, §gold{1}§white, §gold{2}§white (§gold{3}§white)" />
+	<locale key="info_id"																						text="§darkgreenLink Id: §gold{0}" />
+	<locale key="info_author"																				text="§darkgreenErsteller: §gold{0}" />
+	<locale key="info_group"																				text="§darkgreenBenötigte Gruppe: §gold{0}§gray, §darkgreenNur einmal: §gold{If,{1}}Ja{Else}Nein{EndIf}" />
+	<locale key="info_used"																					text="§darkgreenAnzahl benutzt (zuletzt): §gold{0} §darkgreen(§gold{1}§darkgreen)" />
+	<locale key="info_commands"																			text="§darkgreenBefehle: §gold{0}" />
+	<locale key="info_none"																					text="§redKeine Befehle gefunden!" />
+	<locale key="info_onlyonce"																			text="§redDieser Knopf darf nur einmal pro Person genutzt werden!" />
+	<locale key="info_start"																				text="§redDieser Knopf darf erst am §gold{Date,dd.MM.yyyy 'um' HH:mm,{0}}§red genutzt werden!" />
+	<locale key="info_end"                   												text="§redDer Zeitrahmen in dem dieser Knopf genutzt werden darf ist vorbei!" />
+  
+  <!-- Create and Delete System -->
+	<locale key="create_success"																		text="§darkgreenDer neue Link wurde erstellt und erhält die Id §gold{0}" />
+	<locale key="create_error"																			text="§redLink konnte nicht erstellt werden!" />
+	<locale key="target_alreadylink"																text="§redAuf diesem Link liegen bereits Befehle. Id: §gold{0}§red, Ersteller: §gold{2}" />
+	<locale key="delete_success"																		text="§redDer Link mit der Id §gold{0}§red wurde gelöscht!" />
+	<locale key="delete_error"																			text="§redDer Link konnte nicht gelöscht werden!" />
+	<locale key="target_nolink"																			text="§redZiel ist kein Link!" />
+  
+  <!-- Shared Messages -->
+  <locale key="shared_autoremove"																	text="§greenDer Knopf sowie alle Befehle wurden entfernt!" />
+
+  <!-- Commands -->
+	<locale key="linkcommand_create_start"													text="§darkgreenDie Erstellung wurde begonnen. Rechtsklicke nun mit einem §gold{0}§darkgreen auf einen Knopf oder eine Steinernen Druckplatte!" />
+	<locale key="linkcommand_create_cancel"													text="§greenDie Erstellung wurde abgebrochen!" />
+	<locale key="linkcommand_delete_start"													text="§darkgreenDie Löschung wurde begonnen. Rechtsklicke nun mit einem §gold{0}§darkgreen auf einen Knopf oder eine Steinernen Druckplatte!" />
+	<locale key="linkcommand_delete_cancel"													text="§greenDie Löschung wurde abgebrochen!" />
+	<locale key="linkcommand_delete_success"												text="§greenDer Link inkl. aller Befehle wurde erfolgreich entfernt!" />
+	<locale key="linkcommand_delete_error"													text="§redDer Link konnte nicht gelöscht werden!" />
+	<locale key="linkcommand_unknownlink"														text="§redEs gibt keinen Link mit dieser Id!" />
+	<locale key="linkcommand_changedgroup"													text="§darkgreenDie Gruppe vom Link §gold{0}§darkgreen wurde erfolgreich auf §gold{1}§darkgreen geändert!" />
+	<locale key="linkcommand_changedonceonly"												text="§darkgreenDer Link §gold{0}§darkgreen kann nun {If,{1}}§rednurnoch einmal§darkgreen{Else}§greenimmer wieder§darkgreen{EndIf} gedrückt werden!" />
+	<locale key="linkcommand_changedstart"													text="§darkgreenDer Link §gold{0}§darkgreen darf nun ab dem '§gold{1}§darkgreen' genutzt werden!" />
+	<locale key="linkcommand_changedend"														text="§darkgreenDer Link §gold{0}§darkgreen darf nun bis zum '§gold{1}§darkgreen' genutzt werden!" />
+	<locale key="linkcommand_unknowntime"														text="§redDas angegebene Datum wurde in einem falschen Layout übergeben!" />
+	<locale key="linkcommand_command_success"												text="§darkgreenDer Befehl wurde dem Link §gold{0}§darkgreen hinzugefügt!" />
+	<locale key="linkcommand_command_error"													text="§redDer Befehl konnte nicht hinzugefügt werden!" />
+	<locale key="linkcommand_command_delete"												text="§greenDer Befehl wurde erfolgreich entfernt!" />
+	<locale key="linkcommand_command_delete_error"									text="§redDer Befehl existiert nicht oder konnte nicht entfernt werden!" />
+	<locale key="linkcommand_unknowncommand"												text="§redDie angegebene Befehl Id ist ungültig!" />
+	<locale key="linkcommand_infolink"															text="§darkgreenInformationen zu Link §gold{0}" />
+	<locale key="linkcommand_info_start"														text="§darkgreenRechtsklicke nun mit einem §gold{0}§darkgreen auf einen Knopf oder einer Steinernen Druckplatte um dir Informationen anzeigen zu lassen!" />
+	<locale key="linkcommand_info_cancel"														text="§greenDie Link Suche wurde beendet!" />
+</commandlinker>

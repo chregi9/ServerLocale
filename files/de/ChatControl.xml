@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<chatcontrol>
+  <!-- Ignore System -->
+  <locale  key="ignore"	                                     text="§gold{0}§red ignoriert deine Nachrichten!" />
+  
+	<!-- Whisper System -->
+  <locale  key="whisper_send"	                               text="§blueFlüstere {0}: {1}" />
+  <locale  key="whisper_receive"	                           text="§blue{0} flüstert: {1}" />
+  <locale  key="whisper_nopartner"	                         text="§redDu hast keinen Whisperpartner gesetzt!" />
+  <locale  key="whisper_unset"	                             text="§greenDein Whisperpartner wurde entfernt!" />
+  <locale  key="whisper_set"                                 text="§darkgreenDein Whisperpartner ist nun §gold{0}§darkgreen!" />
+  <locale  key="whisper_nolast"	                             text="§redDu wurdest bisher nicht angewhispert!" />
+  <locale  key="whisper_partner"	                           text="§darkgreenDein Whisperpartner ist §gold{0}§darkgreen!" />
+  <locale  key="whisper_last"	                               text="§darkgreenDu wurdest zuletzt von §gold{0}§darkgreen angewhispert!" />
+
+  <!-- Shared Messages -->
+  <locale  key="shared_emptymessage"	                       text="§redEs wurde keine Nachricht angegeben!" />
+  <locale  key="shared_pm_maxlines"													 text="§redDie Nachricht darf maximal §gold{0}§red Zeilen beinhalten!{newline}§darkgreenZum senden tippe §gold/pm send§darkgreen ein!" />
+  <locale  key="shared_pm_login"													 	 text="§darkgreenDu hast §gold{0}§darkgreen ungelesene Nachrichten{newline}Zum ansehen schreibe §gold/pm list unread§darkgreen!" />
+  <locale  key="shared_pm_receive"												   text="§darkgreenDu hast eine Nachricht von §gold{0}§darkgreen mit dem Betreff §gold{1}§darkgreen erhalten!{newline}Zum öffnen schreibe §gold/pm read 0§darkgreen!" />
+  <locale  key="shared_pm_lineadd"												   text="§darkgreenZeile §gold{0}§darkgreen von §gold{1}§darkgreen wurde hinzugefügt!" />
+  <locale  key="shared_room_join"	                           text="§gray{0} hat den Raum {1}§reset§gray betreten!" />
+  <locale  key="shared_room_leave"	                         text="§gray{0} hat den Raum {1}§reset§gray verlassen!" />
+  <locale  key="shared_room_close"	                         text="§grayDer Raum {1}§reset§gray wurde geschlossen!" />
+  <locale  key="shared_room_kick"	                           text="§gray{0} wurde von {1} den Raum {2}§reset§gray geworfen!" />
+  <locale  key="shared_room_newadmin"	                       text="§gray{0} hat im Raum {1}§reset§gray automatisch Administrator Rechte erhalten!" />
+  <locale  key="shared_room_operator"	                       text="§gray{0} wurde im Raum {1}§reset§gray Operator Rechte {If,{2}}gegeben{Else}genommen{EndIf}!" />
+  
+  <!-- Commands -->
+  <locale  key="ignorecommand_change"	                       text="§gold{0}§darkgreen wird nun von dir {If,{1}}§redignoriert{Else}§greenbeachtet{EndIf}§darkgreen!" />
+  <locale  key="ignorecommand_staff"	                       text="§redDu kannst kein Staff Mitglied ignorieren!" />
+  
+  <locale  key="ignorelistcommand_empty"	                   text="§greenDu ignorierst keine Spieler." />
+  <locale  key="ignorelistcommand_list"	                     text="$darkgreenDu ignorierst §gold{0}§darkgreen Spieler: §gold{1}" />
+  
+  <locale  key="privatemessagecommand_send_success"					 text="§darkgreenDie Nachricht '§gold{0}§darkgreen' wurde an §gold{1}§darkgreen gesendet!" />
+  <locale  key="privatemessagecommand_send_error"						 text="§redDurch einen Fehler konnte die Nachricht nicht gesendet werden!" />
+  <locale  key="privatemessagecommand_send_toshort"					 text="§redDie Nachricht ist zu kurz und wurde nicht gesendet!" />
+  <locale  key="privatemessagecommand_cancel"						     text="§redDie Nachricht wurde abgebrochen!" />
+  <locale  key="privatemessagecommand_create"								 text="§greenSchreibe nun im normalen Chat deine Nachricht (auch mehrere Zeilen){newline}Zum Senden gebe §gold/pm send§green ein!{newline}§greenAbbrechen der Nachricht ist über §gold/pm cancel §greenmöglich!" />
+  <locale  key="privatemessagecommand_create_error"					 text="§redDu kannst dir selber keine Nachricht schreiben!" />
+  <locale  key="privatemessagecommand_list"									 text="§darkgreenId: §gold{0}§darkgreen: §gold{1}§darkgreen von §gold{2}" />
+  <locale  key="privatemessagecommand_list_info"						 text="§darkgreenZum lesen einer Nachricht schreibe §gold/pm read &lt;Id&gt;" />
+  <locale  key="privatemessagecommand_list_error"						 text="§redEs gibt nur §gold{1}§red Nachrichten! Dein Angabe §gold{0}§red ist ungültig!" />
+  <locale  key="privatemessagecommand_list_empty"						 text="§redEs wurden keine Nachrichten gefunden!" />
+  <locale  key="privatemessagecommand_show_subject"					 text="§darkgreenNachricht §gold{0}" />
+  <locale  key="privatemessagecommand_show_sender"					 text="§darkgreenErstellt von §gold{0}§darkgreen und gesendet am §gold{Date,dd.MM.yyyy HH:mm,{1}}§darkgreen:" />
+  <locale  key="privatemessagecommand_show_end"							 text="§darkgray+++++ Ende der Nachricht +++++" />
+  <locale  key="privatemessagecommand_unknownpm"						 text="§redEs wurde keine Nachricht mit der Id §gold{0}§red gefunden!" />
+  <locale  key="privatemessagecommand_delete_count"			     text="§darkgreenEs wurden §gold{0}§darkgreen Nachrichten gelöscht!" />
+  <locale  key="privatemessagecommand_delete_single"				 text="§darkgreenDie Nachricht '§gold{0}§darkgreen' von §gold{1}§darkgreen wurde gelöscht!" />
+
+  <locale  key="roomcommand_alreadyexist"	                   text="§redEin Raum mit dem Namen §gold{0}§red existiert bereits!" />
+  <locale  key="roomcommand_unknownroom"	                   text="§redEs wurde kein Raum mit dem Namen §gold{0}§red gefunden!" />
+  <locale  key="roomcommand_missingrights"	                 text="§redDu hast nicht genügend Rechte um den Raum §gold{0}§red zu bearbeiten!" />
+  <locale  key="roomcommand_notsubscribed"	                 text="§redDer Raum §gold{0}§red wurde von dir nicht abonniert!" />  
+  <locale  key="roomcommand_add_success"	                   text="§darkgreenDer Raum §gold{0}§darkgreen wurde erfolgreich erstellt!" />
+  <locale  key="roomcommand_add_error"	                     text="§redDer Name eines Raumes muss mindestens 3 Zeichen (ohne Farben) betragen!" />
+  <locale  key="roomcommand_delete_success"	                 text="§redDer Raum §gold{0}§red wulrde erfolgreich gelöscht!" />  
+  <locale  key="roomcommand_edit_password_success"	         text="§darkgreenDas Passwort für den Raum §gold{0}§darkgreen wurde {If,{1}}§greengesetzt{Else}§redentfernt{EndIf}" />
+  <locale  key="roomcommand_edit_operator_list_empty"	       text="§redFür den Raum §gold{0}§red gibt es keine Operators!" />
+  <locale  key="roomcommand_edit_operator_list"	             text="§darkgreenEs gibt §gold{0}§darkgreen Operators für den Raum §gold{1}§darkgreen: §gold{2}!" />
+  <locale  key="roomcommand_edit_operator_error"	           text="§gold{0}§red hat den Raum §gold{1}§red nicht abonniert!" />
+  <locale  key="roomcommand_edit_operator_success"	         text="§gold{0}§darkgreen wurden im Raum §gold{1}§darkgreen {If,{2}}§greengegeben{Else}§redentzogen{EndIf}§darkgreen!" />
+  <locale  key="roomcommand_edit_kick_error"	               text="§gold{0}§red hat den Raum §gold{1}§red nicht abonniert!" />
+  <locale  key="roomcommand_edit_kick_nothim"	               text="§redDu kannst den Spieler §gold{0}§red nicht aus dem Raum §gold{1}§red werfen!" />
+  <locale  key="roomcommand_edit_kick_success"	             text="§gold{0}§red wurde aus dem Raum §gold{1}§red entfernt!" />  
+  <locale  key="roomcommand_main_success"	                   text="§darkgreenDein Haupt-Raum wurde {If,{0}}auf §gold{1}§darkgreen gesetzt{Else}zurückgesetzt{EndIf}!" />
+  <locale  key="roomcommand_subscribe_success"	             text="§darkgreenDu hast den Raum §gold{0}§darkgreen erfolgreich abonniert!" />  
+  <locale  key="roomcommand_subscribe_alreadymember"	       text="§redDu hast den Raum §gold{0}§red bereits abonniert!" />
+  <locale  key="roomcommand_subscribe_error"	               text="§redDas angegebene Passwort für den Raum §gold{0}§red ist falsch!" />
+  <locale  key="roomcommand_leave_success"	                 text="§darkgreenDu hast den Raum §gold{0}§darkgreen erfolgreich verlassen!" />
+  <locale  key="roomcommand_list_all_empty"	                 text="§redEs wurden bisher keine Räume erstellt!" />
+  <locale  key="roomcommand_list_all_list"	                 text="§darkgreenEs gibt §gold{0}§darkgreen Räume: §gold{1}" />
+  <locale  key="roomcommand_list_room_list"	                 text="§darkgreenEs sind §gold{0}§darkgreen Spieler im Raum §gold{1}§darkgreen: §gold{2}" />
+</chatcontrol>

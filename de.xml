@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	Achtung! Diese Datei wird für jede Sprache benötigt. In dieser Datei stehen sowohl die
+	grundlegenden Informationen für die Übersetzung als auch mögliche Einstellungen.
+	Zuletzt wird hier auch angegeben welche Dateien geladen werden sollen, im Normalfall
+	sollte nur der erste Abschnitt geändert werden. Das betrifft die vier Felder:
+	-> name
+		-> Name der Sprache, wenn möglich in Englisch oder Deutsch
+	-> tag
+		-> Kürzel der Sprache, bei Deutsch ist das z.B. "de".
+	-> description
+		-> Beschreibung der Sprache zusammengefasst in wenigen Worten
+	-> author
+		-> Autor oder Autoren dieser Sprache
+	-> version
+		-> Aktuelle Version dieser Sprachdatei. Muss höher oder gleichwertig zum Server sein!
+
+	Weiterhin können falls nötig noch Einstellungen getroffen werden.
+	Momentan wäre das:
+	-> shortcolor
+		-> Gibt an ob unser Compiler kurze oder lange Farbcodes interpretieren soll. Bedeutet ob er "§c" (kurz) oder "§red" (lang) erkennt.
+		-> Als Eingabe hier bitte "true" für kurz und "false" für lang.
+	-> expressions
+		-> Erlaubt das Parsen von einigen zusätzlichen Codes, Genauere Informationen hierzu im Abschnitt "Hardcoded Expressions"
+
+#################################
+## Hardcoded Expressions
+#################################
+	Es ist möglich das der Server bestimmte zusätzliche Eingaben parst. Damit sind nicht die Platzhalterfelder {0} ... {999} gemeint.
+	Diese zusätzlichen Expressions sind als Beispiel da um das Datum oder die aktuelle Zeit anzuzeigen.
+
+	-> Date
+		{Date,dd.MM.yyyy} gibt das aktuelle Datum so zurück: 25.11.2012
+		{Date,HH:mm:ss} dagegen die aktuelle Zeit im Format: 00:47:30
+		{Date,dd.MM.yyyy,Time} 	Es ist auch möglich als drittes Argument eine Zahl anzugeben. Diese muss in Millisekunden angegeben werden und zählt ab der Unix Epoche.
+															Es können hier auch Variablen übergeben werden: {Date, dd.MM.yyyy, {0}}
+
+		Dadurch können auch kompliziertere Ausgaben bewerkstelligt werden wie z.B:
+		Sprach Key: "§darkgreenHeute ist der §gold{Date, dd.MM.yyyy}§darkgreen und es ist §gold{Date, HH} Stunden, {Date, mm} Minuten und {Date, ss} Sekunden§darkgreen!"
+		Ausgabe: "Heute ist der 25.11.2012 und es ist 00 Stunden, 52 Minuten und 30 Sekunden!"
+
+	-> Locale
+		{Locale,de,name} gibt Sprachname zurück. Bei de wäre das "Deutsch"
+		{Locale,de,author} gibt Autor wie unten definiert zurück: "DerTod2"
+
+		Es können natürlich auch tag sowie description genutzt werden.
+
+		Weiterhin ist es möglich auch andere Keys zu laden aus Sprachen. Also z.B. den Key "basecontrol_pvp"
+		Der Sprachkey sieht im Deutschen so aus: "§darkgreenDein PvP ist momentan: §bold§red{0}"
+		Nun könnte in einer anderen Sprache dieser eingebettet werden, wie hier im Beispiel:
+		Sprach Key: "Your PVP is {0} and the German Phrase is: {Locale,de,basecontrol_pvp,{0}}"
+		Mehr Argumente werden durch Doppelpunkte getrennt: "{Locale,de,basecontrol_pvp,{0}:{1}:{2}}"
+
+		Ausgabe: "Your PVP is activated and the German Phrase is: Dein PvP ist momentan: activated"
+
+		So können mehrere Sprachen verknüpft werden, aber wie das Beispiel zeigt können übergebene Werte nicht übersetzt werden.
+		Weiterhin sollte aufgepasst werden das so keine Dauerschleife zustande kommt. Ansonsten hängt sich der Server kurze Zeit später auf oder wirft einen Fehler :)
+
+	-> If / Else / End If
+		{If,boolean} {Else} {EndIf} Führt wenn ein boolsche Wert zutrifft einen teil aus, ansonsten einen anderen
+		{If,boolean} {EndIf} Führt wenn ein boolsche Wert zutrifft einen teil aus
+
+		Als Boolsche Werte gelten: true, TRUE, 1
+		Alle anderen Werte die übergeben werden werden automatisch als false (falsch) interpretiert
+
+		Nun ist es auch möglich neben Boolschen Vergleichen auch Integer zu vergleichen. Weiterhin wurden die Vergleichsoperatoren >=, <=, ==, != eingebaut.
+
+		Das kann z.B. genutzt werden um in bestimmten Fällen andere Sprachvariable anzuzeigen. Besonders gut geeignet wäre das dann bei Global gesendeten Nachrichten mit ggf. lokalisiertem Ja und Nein ohne zwei zusätzliche Sprachstrings zu erstellen
+		Um auf übergebene Variablen als Boolsche Wert zuzugreifen muss es so aussehen:
+		{If,{0}}
+		Beachte: If in If ist momentan nicht möglich! Solltet ihr soetwas einbauen werden die Strings möglicherweise fehlerhaft ausgegeben!
+
+	-> Time
+		{Time,long}
+    Gibt die Restzeit zu dem angegebenen Timestamp aus. Dabei wird die Zeit in Monate, Tage, Stunden, Minuten, Sekunden konvertiert.
+    
+  -> Newline
+    {newline}
+    Erlaubt einen einfachen Zeilenumbruch um in der nächsten Zeile weiter zu schreiben. Die bisherigen Farben werden dabei übernommen.
+
+	Beachte: Groß/Kleinschreibung ist hierbei überall immer sehr wichtig!
+#################################
+## Achtung!
+#################################
+	Die Einträge "File" sollten nicht bearbeitet werden. Diese beinhalten alle Dateien die geladen werden sollen,
+	fehlt dort eine kann es ggf. zu Fehlern kommen.
+-->
+
+<!--
+	.: Unlimitedworld Locales System by DerTod2 2013 :.
+
+	German (Deutsch) by DerTod2 2013
+	http://unlimitedworld.de/
+-->
+<german>
+	<locale key="name"	        value="Deutsch" />
+  <locale key="tag"	          value="de" />
+  <locale key="description"	  value="Klassisches Hochdeutsch ohne (bewusste) Dialekte" />
+	<locale key="author"	  		value="DerTod2" />
+	<locale key="version"				value="2.01" />
+
+	<setting key="shortcolor"	  value="false" />
+	<setting key="expressions"	value="true" />
+  
+  <file name="AntiIdle.xml" />
+  <file name="BaseControl.xml" />
+  <file name="Blocks.xml" />
+  <file name="ChatControl.xml" />
+  <file name="CommandLinker.xml" />
+  <file name="Default.xml" />
+  <file name="EventHandler.xml" />
+  <file name="FunTools.xml" />
+  <file name="ModControl.xml" />
+  <file name="ModerationTools.xml" />
+  <file name="TeleportManager.xml" />
+  <file name="TradingSystem.xml" />
+  <file name="UltimateZones.xml" />
+  <file name="UnlockManager.xml" />
+  <file name="WarnSystem.xml" />
+  <file name="WorldLogger.xml" />
+</german>
