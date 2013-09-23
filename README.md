@@ -1,7 +1,7 @@
-ServerLocale
+﻿ServerLocale
 ============
 
-Deutsche Sprachausgabe für Arandur
+Schweizer Sprachausgabe für Arandur
 
 -> Informationen für die Veränderung bzw. das einbauen eigener Sprachen <-
 
