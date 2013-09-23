@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <commandlinker>
   <!-- Info System -->
 	<locale key="info_found"																				text="§darkgreenLink gefunden: §gold{0}§white, §gold{1}§white, §gold{2}§white (§gold{3}§white)" />
