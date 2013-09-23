@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <tradingsystem>
 	<locale key="tradecommand_nostore_self"															text="§redDu hast momentan keine Reservierung für einen Laden am laufen!" />
 	<locale key="tradecommand_nostore_other"														text="§gold{0}§red hat keinen Laden reserviert!" />
