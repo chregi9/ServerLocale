@@ -1,443 +1,443 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <blocks>
 	<!-- Blocks -->
-	<locale key="0-0"	text="Luft" />
-	<locale key="1-0"	text="Stein" />
+	<locale key="0-0"	text="Loft" />
+	<locale key="1-0"	text="Stei" />
 	<locale key="2-0"	text="Gras" />
-	<locale key="3-0"	text="Dreck" />
-	<locale key="4-0"	text="Pflasterstein" />
-	<locale key="5-0"	text="Eichenholzbrett" />
-	<locale key="5-1"	text="Fichtenholzbrett" />
-	<locale key="5-2"	text="Birkenholzbrett" />
-	<locale key="5-3"	text="Tropenholzbrett" />
-	<locale key="6-0"	text="Eichensetzling" />
-	<locale key="6-1"	text="Fichtensetzling" />
-	<locale key="6-2"	text="Birkensetzling" />
-	<locale key="6-3"	text="Tropenbaumsetzling" />
+	<locale key="3-0"	text="Dräck" />
+	<locale key="4-0"	text="Pflasterstei" />
+	<locale key="5-0"	text="Eicheholzbrätt" />
+	<locale key="5-1"	text="Fichteholzbrätt" />
+	<locale key="5-2"	text="Birkeholzbrätt" />
+	<locale key="5-3"	text="Tropeholzbrätt" />
+	<locale key="6-0"	text="Eichesetzling" />
+	<locale key="6-1"	text="Fichtesetzling" />
+	<locale key="6-2"	text="Birkesetzling" />
+	<locale key="6-3"	text="Tropebaumsetzling" />
 	<locale key="7-0"	text="Bedrock" />
-	<locale key="8-0"	text="Fließendes Wasser" />
-	<locale key="9-0"	text="Stehendes Wasser" />
-	<locale key="10-0"	text="Fließende Lava" />
-	<locale key="11-0"	text="Stehende Lava" />
+	<locale key="8-0"	text="Flüssends Wasser" />
+	<locale key="9-0"	text="Ruhiges Wasser" />
+	<locale key="10-0"	text="Flüssendi Lava" />
+	<locale key="11-0"	text="Ruhige Lava" />
 	<locale key="12-0"	text="Sand" />
-	<locale key="13-0"	text="Kies" />
+	<locale key="13-0"	text="Ches" />
 	<locale key="14-0"	text="Golderz" />
-	<locale key="15-0"	text="Eisenerz" />
-	<locale key="16-0"	text="Kohle" />
-	<locale key="17-0"	text="Eichenholz" />
-	<locale key="17-1"	text="Fichtenholz" />
-	<locale key="17-2"	text="Birkenholz" />
-	<locale key="17-3"	text="Tropenholz" />
-	<locale key="18-0"	text="Eichenlaub" />
-	<locale key="18-1"	text="Fichtenlaub" />
-	<locale key="18-2"	text="Birkenlaub" />
-	<locale key="18-3"	text="Tropenlaub" />
-	<locale key="19-0"	text="Schwamm" />
+	<locale key="15-0"	text="Isenerz" />
+	<locale key="16-0"	text="Chole" />
+	<locale key="17-0"	text="Eicheholz" />
+	<locale key="17-1"	text="Fichteholz" />
+	<locale key="17-2"	text="Birkeholz" />
+	<locale key="17-3"	text="Tropeholz" />
+	<locale key="18-0"	text="Eichelaub" />
+	<locale key="18-1"	text="Fichtelaub" />
+	<locale key="18-2"	text="Birkelaub" />
+	<locale key="18-3"	text="Tropelaub" />
+	<locale key="19-0"	text="Schwomm" />
 	<locale key="20-0"	text="Glas" />
 	<locale key="21-0"	text="Lapis Lazuli Erz" />
 	<locale key="22-0"	text="Lapis Lazuli" />
 	<locale key="23-0"	text="Dispenser" />
-	<locale key="24-0"	text="Sandstein" />
-	<locale key="25-0"	text="Notenblock" />
-	<locale key="26-0"	text="Bett" />
-	<locale key="27-0"	text="Booster-Schiene" />
-	<locale key="28-0"	text="Detektor-Schiene" />
-	<locale key="29-0"	text="Haftender Kolben" />
-	<locale key="30-0"	text="Spinnennetz" />
+	<locale key="24-0"	text="Sandstei" />
+	<locale key="25-0"	text="Noteblock" />
+	<locale key="26-0"	text="Bätt" />
+	<locale key="27-0"	text="Booster-Schene" />
+	<locale key="28-0"	text="Detektor-Schene" />
+	<locale key="29-0"	text="Haftende Cholben" />
+	<locale key="30-0"	text="Spinnenetz" />
 	<locale key="31-0"	text="Busch" />
-	<locale key="31-1"	text="Hohes Gras" />
+	<locale key="31-1"	text="Höchs Gras" />
 	<locale key="31-2"	text="Farn" />
-	<locale key="32-0"	text="Toter Strauch" />
-	<locale key="33-0"	text="Kolben" />
-	<locale key="34-0"	text="Kolben-Kopf" />
-	<locale key="35-0"	text="Weiße Wolle" />
-	<locale key="35-1"	text="Orange Wolle" />
-	<locale key="35-2"	text="Pinke Wolle" />
-	<locale key="35-3"	text="Hellblaue Wolle" />
-	<locale key="35-4"	text="Gelbe Wolle" />
-	<locale key="35-5"	text="Hellgrüne Wolle" />
+	<locale key="32-0"	text="Tote Struch" />
+	<locale key="33-0"	text="Cholben" />
+	<locale key="34-0"	text="Cholbe-Chopf" />
+	<locale key="35-0"	text="Wissi Wolle" />
+	<locale key="35-1"	text="Orangi Wolle" />
+	<locale key="35-2"	text="Pinki Wolle" />
+	<locale key="35-3"	text="Hellblaui Wolle" />
+	<locale key="35-4"	text="Gälbi Wolle" />
+	<locale key="35-5"	text="Hellgrüni Wolle" />
 	<locale key="35-6"	text="Rosa Wolle" />
-	<locale key="35-7"	text="Graue Wolle" />
-	<locale key="35-8"	text="Hellgraue Wolle" />
+	<locale key="35-7"	text="Graui Wolle" />
+	<locale key="35-8"	text="Hellgraui Wolle" />
 	<locale key="35-9"	text="Türkise Wolle" />
-	<locale key="35-10"	text="Violette Wolle" />
-	<locale key="35-11"	text="Blaue Wolle" />
-	<locale key="35-12"	text="Braune Wolle" />
-	<locale key="35-13"	text="Grüne Wolle" />
-	<locale key="35-14"	text="Rote Wolle" />
-	<locale key="35-15"	text="Schwarze Wolle" />
-	<locale key="36-0"	text="Verschobener Block" />
+	<locale key="35-10"	text="Violetti Wolle" />
+	<locale key="35-11"	text="Blaui Wolle" />
+	<locale key="35-12"	text="Brauni Wolle" />
+	<locale key="35-13"	text="Grüni Wolle" />
+	<locale key="35-14"	text="Roti Wolle" />
+	<locale key="35-15"	text="Schwarzi Wolle" />
+	<locale key="36-0"	text="Verschobene Block" />
 	<locale key="37-0"	text="Löwenzahn" />
 	<locale key="38-0"	text="Rose" />
-	<locale key="39-0"	text="Brauner Pilz" />
-	<locale key="40-0"	text="Fliegenpilz" />
+	<locale key="39-0"	text="Brune Pelz" />
+	<locale key="40-0"	text="Flügepelz" />
 	<locale key="41-0"	text="Goldblock" />
-	<locale key="42-0"	text="Eisenblock" />
-	<locale key="43-0"	text="Doppelte Stein Stufe" />
-	<locale key="43-1"	text="Doppelte Sandstein Stufe" />
-	<locale key="43-2"	text="Doppelte Holz Stufe" />
-	<locale key="43-3"	text="Doppelte Pflasterstein Stufe" />
-	<locale key="43-4"	text="Doppelte Ziegel Stufe" />
-	<locale key="43-5"	text="Doppelte Steinziegel Stufe" />
-	<locale key="43-6"	text="Doppelte Netherziegel Stufe" />
-	<locale key="44-0"	text="Stein Stufe" />
-	<locale key="44-1"	text="Sandstein Stufe" />
+	<locale key="42-0"	text="Isenblock" />
+	<locale key="43-0"	text="Doppelti Stei Stufe" />
+	<locale key="43-1"	text="Doppelti Sandstei Stufe" />
+	<locale key="43-2"	text="Doppelti Holz Stufe" />
+	<locale key="43-3"	text="Doppelti Pflasterstei Stufe" />
+	<locale key="43-4"	text="Doppelti Ziegel Stufe" />
+	<locale key="43-5"	text="Doppelti Steiziegel Stufe" />
+	<locale key="43-6"	text="Doppelti Netherziegel Stufe" />
+	<locale key="44-0"	text="Stei Stufe" />
+	<locale key="44-1"	text="Sandstei Stufe" />
 	<locale key="44-2"	text="Holz Stufe" />
-	<locale key="44-3"	text="Pflasterstein Stufe" />
+	<locale key="44-3"	text="Pflasterstei Stufe" />
 	<locale key="44-4"	text="Ziegel Stufe" />
-	<locale key="44-5"	text="Steinziegel Stufe" />
+	<locale key="44-5"	text="Steiziegel Stufe" />
 	<locale key="44-6"	text="Netherziegel Stufe" />
-	<locale key="45-0"	text="Ziegelstein" />
+	<locale key="45-0"	text="Ziegelstei" />
 	<locale key="46-0"	text="TNT" />
 	<locale key="47-0"	text="Bücherregal" />
-	<locale key="48-0"	text="Bemooster Pflasterstein" />
+	<locale key="48-0"	text="Bemooste Pflasterstei" />
 	<locale key="49-0"	text="Obsidian" />
 	<locale key="50-0"	text="Fackel" />
-	<locale key="51-0"	text="Feuer" />
+	<locale key="51-0"	text="Füür" />
 	<locale key="52-0"	text="Monster-Spawner" />
-	<locale key="53-0"	text="Eichenholztreppe" />
+	<locale key="53-0"	text="Eicheholzträppe" />
 	<locale key="54-0"	text="Truhe" />
-	<locale key="55-0"	text="Redstoneleitung" />
+	<locale key="55-0"	text="Redstoneleitig" />
 	<locale key="56-0"	text="Diamanterz" />
 	<locale key="57-0"	text="Diamantblock" />
 	<locale key="58-0"	text="Werkbank" />
 	<locale key="59-0"	text="Getreide" />
-	<locale key="60-0"	text="Ackerboden" />
-	<locale key="61-0"	text="Ofen" />
-	<locale key="62-0"	text="Brennender Ofen" />
-	<locale key="63-0"	text="Schild" />
+	<locale key="60-0"	text="Ackerbode" />
+	<locale key="61-0"	text="Ofe" />
+	<locale key="62-0"	text="Brennende Ofe" />
+	<locale key="63-0"	text="Scheld" />
 	<locale key="64-0"	text="Holztür" />
 	<locale key="65-0"	text="Leiter" />
-	<locale key="66-0"	text="Schienen" />
-	<locale key="67-0"	text="Steintreppe" />
-	<locale key="68-0"	text="Wandschild" />
+	<locale key="66-0"	text="Schene" />
+	<locale key="67-0"	text="Steiträppe" />
+	<locale key="68-0"	text="Wandscheld" />
 	<locale key="69-0"	text="Hebel" />
-	<locale key="70-0"	text="Steinerne Druckplatte" />
-	<locale key="71-0"	text="Eisentür" />
-	<locale key="72-0"	text="Hölzerne Druckplatte" />
+	<locale key="70-0"	text="Steierni Drockplatte" />
+	<locale key="71-0"	text="Isentür" />
+	<locale key="72-0"	text="Hölzerni Drockplatte" />
 	<locale key="73-0"	text="Redstoneerz" />
-	<locale key="74-0"	text="Leuchtendes Redstoneerz" />
-	<locale key="75-0"	text="Redstone-Fackel (aus)" />
+	<locale key="74-0"	text="Lüchtendes Redstoneerz" />
+	<locale key="75-0"	text="Redstone-Fackel (us)" />
 	<locale key="76-0"	text="Redstone-Fackel (an)" />
-	<locale key="77-0"	text="Knopf" />
+	<locale key="77-0"	text="Chnopf" />
 	<locale key="78-0"	text="Schnee" />
-	<locale key="79-0"	text="Eis" />
+	<locale key="79-0"	text="Iis" />
 	<locale key="80-0"	text="Schneeblock" />
 	<locale key="81-0"	text="Kaktus" />
 	<locale key="82-0"	text="Lehm" />
-	<locale key="83-0"	text="Zuckerrohr" />
+	<locale key="83-0"	text="Zockerrohr" />
 	<locale key="84-0"	text="Musikbox" />
-	<locale key="85-0"	text="Zaun" />
-	<locale key="86-0"	text="Kürbis" />
+	<locale key="85-0"	text="Haag" />
+	<locale key="86-0"	text="Chörbis" />
 	<locale key="87-0"	text="Netherrack" />
-	<locale key="88-0"	text="Seelensand" />
+	<locale key="88-0"	text="Seelesand" />
 	<locale key="89-0"	text="Glowstone" />
 	<locale key="90-0"	text="Portal" />
 	<locale key="91-0"	text="Jack-O-Lantern" />
-	<locale key="92-0"	text="Kuchenblock" />
-	<locale key="93-0"	text="Redstone Repeater (aus)" />
+	<locale key="92-0"	text="Chuchenblock" />
+	<locale key="93-0"	text="Redstone Repeater (us)" />
 	<locale key="94-0"	text="Redstone Repeater (an)" />
-	<locale key="95-0"	text="Verschlossene Truhe" />
+	<locale key="95-0"	text="Verschlosseni Truhe" />
 	<locale key="96-0"	text="Falltür" />
-	<locale key="97-0"	text="Stein mit Silberfisch" />
-	<locale key="97-1"	text="Pflasterstein mit Silberfisch" />
-	<locale key="97-2"	text="Steinziegel mit Silberfisch" />
-	<locale key="98-0"	text="Steinziegel" />
-	<locale key="98-1"	text="Bemooster Steinziegel" />
-	<locale key="98-2"	text="Rissiger Steinziegel" />
-	<locale key="98-3"	text="Gemeißelter Steinziegel" />
-	<locale key="99-0"	text="Brauner Pilzblock" />
-	<locale key="100-0"	text="Roter Pilzblock" />
-	<locale key="101-0"	text="Eisengitter" />
-	<locale key="102-0"	text="Glasscheibe" />
+	<locale key="97-0"	text="Stei met Selberfesch" />
+	<locale key="97-1"	text="Pflasterstei met Selberfesch" />
+	<locale key="97-2"	text="Steiziegel mit Selberfesch" />
+	<locale key="98-0"	text="Steiziegel" />
+	<locale key="98-1"	text="Bemooste Steiziegel" />
+	<locale key="98-2"	text="Ressige Steiziegel" />
+	<locale key="98-3"	text="Gemeiselte Steiziegel" />
+	<locale key="99-0"	text="Brune Pelzblock" />
+	<locale key="100-0"	text="Roter Pelzblock" />
+	<locale key="101-0"	text="Isengitter" />
+	<locale key="102-0"	text="Glasschibe" />
 	<locale key="103-0"	text="Melone" />
-	<locale key="104-0"	text="Kürbispflanze" />
-	<locale key="105-0"	text="Melonenpflanze" />
+	<locale key="104-0"	text="Körbispflanze" />
+	<locale key="105-0"	text="Melonepflanze" />
 	<locale key="106-0"	text="Liane" />
 	<locale key="107-0"	text="Zauntor" />
-	<locale key="108-0"	text="Ziegeltreppe" />
-	<locale key="109-0"	text="Steinziegeltreppe" />
+	<locale key="108-0"	text="Ziegelträppe" />
+	<locale key="109-0"	text="Steiziegelträppe" />
 	<locale key="110-0"	text="Myzel" />
 	<locale key="111-0"	text="Seerose" />
 	<locale key="112-0"	text="Netherziegel" />
-	<locale key="113-0"	text="Netherziegelzaun" />
-	<locale key="114-0"	text="Netherziegeltreppe" />
+	<locale key="113-0"	text="Netherziegelhaag" />
+	<locale key="114-0"	text="Netherziegelträppe" />
 	<locale key="115-0"	text="Netherwarze" />
 	<locale key="116-0"	text="Zaubertisch" />
 	<locale key="117-0"	text="Braustand" />
-	<locale key="118-0"	text="Kessel" />
+	<locale key="118-0"	text="Chessel" />
 	<locale key="119-0"	text="Enderportal" />
 	<locale key="120-0"	text="Enderportal-Block" />
-	<locale key="121-0"	text="Endstein" />
-	<locale key="122-0"	text="Drachenei" />
-	<locale key="123-0"	text="Redstone-Lampe (aus)" />
+	<locale key="121-0"	text="Endstei" />
+	<locale key="122-0"	text="Dracheei" />
+	<locale key="123-0"	text="Redstone-Lampe (us)" />
 	<locale key="124-0"	text="Redstone-Lampe (an)" />
-	<locale key="125-0"	text="Doppelte Eichenholzstufe" />
-	<locale key="125-1"	text="Doppelte Fichtenholzstufe" />
-	<locale key="125-2"	text="Doppelte Birkenholzstufe" />
-	<locale key="125-3"	text="Doppelte Tropenholzstufe" />
-	<locale key="126-0"	text="Eichenholzstufe" />
-	<locale key="126-1"	text="Fichtenholzstufe" />
-	<locale key="126-2"	text="Birkenholzstufe" />
-	<locale key="126-3"	text="Tropenholzstufe" />
+	<locale key="125-0"	text="Doppelti Eicheholzstufe" />
+	<locale key="125-1"	text="Doppelti Fichteholzstufe" />
+	<locale key="125-2"	text="Doppelti Birkeholzstufe" />
+	<locale key="125-3"	text="Doppelti Tropeholzstufe" />
+	<locale key="126-0"	text="Eicheholzstufe" />
+	<locale key="126-1"	text="Fichteholzstufe" />
+	<locale key="126-2"	text="Birkeholzstufe" />
+	<locale key="126-3"	text="Tropeholzstufe" />
 	<locale key="127-0"	text="Kakaopflanze" />
-	<locale key="128-0"	text="Sandsteintreppe" />
+	<locale key="128-0"	text="Sandsteiträppe" />
 	<locale key="129-0"	text="Smaragderz" />
 	<locale key="130-0"	text="Endertruhe" />
 	<locale key="131-0"	text="Haken" />
-	<locale key="132-0"	text="Stolperdraht" />
+	<locale key="132-0"	text="Stolperdroht" />
 	<locale key="133-0"	text="Smaragdblock" />
-	<locale key="134-0"	text="Fichtenholztreppe" />
-	<locale key="135-0"	text="Birkenholztreppe" />
-	<locale key="136-0"	text="Tropenholztreppe" />
+	<locale key="134-0"	text="Fichteholzträppe" />
+	<locale key="135-0"	text="Birkeholzträppe" />
+	<locale key="136-0"	text="Tropeholzträppe" />
 	<locale key="137-0"	text="Kommandoblock" />
-	<locale key="138-0"	text="Leuchtfeuerblock" />
-	<locale key="139-0"	text="Pflastersteinmauer" />
-	<locale key="139-1"	text="Bemooste Pflastersteinmauer" />
-	<locale key="140-0"	text="Blumentopf" />
-	<locale key="141-0"	text="Karottensamen" />
-	<locale key="142-0"	text="Kartoffelsamen" />
-	<locale key="143-0"	text="Holzknopf" />
-	<locale key="144-0"	text="Kopf" />
+	<locale key="138-0"	text="Lüchtfüürblock" />
+	<locale key="139-0"	text="Pflastersteimur" />
+	<locale key="139-1"	text="Bemooste Pflastersteimur" />
+	<locale key="140-0"	text="Blumetopf" />
+	<locale key="141-0"	text="Karottesame" />
+	<locale key="142-0"	text="Kartoffelsame" />
+	<locale key="143-0"	text="Holzchnopf" />
+	<locale key="144-0"	text="Chopf" />
 	<locale key="145-0"	text="Amboss" />
-	<locale key="145-1"	text="Leicht beschädigter Amboss" />
-	<locale key="145-2"	text="Stark beschädigter Amboss" />
+	<locale key="145-1"	text="Licht beschädigte Amboss" />
+	<locale key="145-2"	text="Stark beschädigte Amboss" />
 	<locale key="146-0"	text="Redstone-Truhe" />
-	<locale key="147-0"	text="Gewichtete Druckplatte" />
-	<locale key="148-0"	text="Gewichtete Druckplatte" />
-	<locale key="149-0"	text="Komparator (aus)" />
+	<locale key="147-0"	text="Gewichtige Drockplatte" />
+	<locale key="148-0"	text="Gewichtige Drockplatte" />
+	<locale key="149-0"	text="Komparator (us)" />
 	<locale key="150-0"	text="Komparator (an)" />
 	<locale key="151-0"	text="Tageslichtdetektor" />
 	<locale key="152-0"	text="Redstone-Block" />
 	<locale key="153-0"	text="Netherquarzerz" />
-	<locale key="154-0"	text="Trichter" />
+	<locale key="154-0"	text="Trechter" />
 	<locale key="155-0"	text="Quarzblock" />
-	<locale key="156-0"	text="Quarztreppe" />
-	<locale key="157-0"	text="Aktivierungsschiene" />
+	<locale key="156-0"	text="Quarzträppe" />
+	<locale key="157-0"	text="Aktivierigsschene" />
   <locale key="158-0"	text="Dropper" />
-  <locale key="159-0"	text="Weiß gefärbter Lehm" />
-  <locale key="159-1"	text="Orange gefärbter Lehm" />
-  <locale key="159-2"	text="Magenta gefärbter Lehm" />
-  <locale key="159-3"	text="Hellblau gefärbter Lehm" />
-  <locale key="159-4"	text="Gelb gefärbter Lehm" />
-  <locale key="159-5"	text="Hellgrün gefärbter Lehm" />
-  <locale key="159-6"	text="Rosa gefärbter Lehm" />
-  <locale key="159-7"	text="Grau gefärbter Lehm" />
-  <locale key="159-8"	text="Hellgrau gefärbter Lehm" />
-  <locale key="159-9"	text="Türkis gefärbter Lehm" />
-  <locale key="159-10"	text="Violett gefärbter Lehm" />
-  <locale key="159-11"	text="Blau gefärbter Lehm" />
-  <locale key="159-12"	text="Braun gefärbter Lehm" />
-  <locale key="159-13"	text="Grün gefärbter Lehm" />
-  <locale key="159-14"	text="Rot gefärbter Lehm" />
-  <locale key="159-15"	text="Schwarz gefärbter Lehm" />
-  <locale key="170-0"	text="Strohballen" />
-  <locale key="172-0"	text="Gebrannter Lehm" />
-  <locale key="173-0"	text="Kohleblock" />
+  <locale key="159-0"	text="Wiss gefärbte Lehm" />
+  <locale key="159-1"	text="Orang gefärbte Lehm" />
+  <locale key="159-2"	text="Magenta gefärbte Lehm" />
+  <locale key="159-3"	text="Hellblau gefärbte Lehm" />
+  <locale key="159-4"	text="Gälb gefärbte Lehm" />
+  <locale key="159-5"	text="Hellgrün gefärbte Lehm" />
+  <locale key="159-6"	text="Rosa gefärbte Lehm" />
+  <locale key="159-7"	text="Grau gefärbte Lehm" />
+  <locale key="159-8"	text="Hellgrau gefärbte Lehm" />
+  <locale key="159-9"	text="Türkis gefärbte Lehm" />
+  <locale key="159-10"	text="Violett gefärbte Lehm" />
+  <locale key="159-11"	text="Blau gefärbte Lehm" />
+  <locale key="159-12"	text="Brun gefärbte Lehm" />
+  <locale key="159-13"	text="Grün gefärbte Lehm" />
+  <locale key="159-14"	text="Rot gefärbte Lehm" />
+  <locale key="159-15"	text="Schwarz gefärbte Lehm" />
+  <locale key="170-0"	text="Strohballe" />
+  <locale key="172-0"	text="Brännte Lehm" />
+  <locale key="173-0"	text="Chohleblock" />
 	<!-- Items -->
-	<locale key="256-0"	text="Eisenschaufel" />
-	<locale key="257-0"	text="Eisenspitzhacke" />
-	<locale key="258-0"	text="Eisen-Axt" />
-	<locale key="259-0"	text="Feuerzeug" />
-	<locale key="260-0"	text="Apfel" />
-	<locale key="261-0"	text="Bogen" />
-	<locale key="262-0"	text="Pfeil" />
-	<locale key="263-0"	text="Kohle" />
+	<locale key="256-0"	text="Isenschaufel" />
+	<locale key="257-0"	text="Isenspitzhacke" />
+	<locale key="258-0"	text="Isen-Axt" />
+	<locale key="259-0"	text="Füüerzüg" />
+	<locale key="260-0"	text="Öpfel" />
+	<locale key="261-0"	text="Boge" />
+	<locale key="262-0"	text="Pfil" />
+	<locale key="263-0"	text="Chohle" />
 	<locale key="264-0"	text="Diamant" />
-	<locale key="265-0"	text="Eisenbarren" />
+	<locale key="265-0"	text="Isenbarren" />
 	<locale key="266-0"	text="Goldbarren" />
-	<locale key="267-0"	text="Eisenschwert" />
+	<locale key="267-0"	text="Isenschwert" />
 	<locale key="268-0"	text="Holzschwert" />
-	<locale key="269-0"	text="Holzschaufel" />
+	<locale key="269-0"	text="Holzschufel" />
 	<locale key="270-0"	text="Holzspitzhacke" />
 	<locale key="271-0"	text="Holzaxt" />
-	<locale key="272-0"	text="Steinschwert" />
-	<locale key="273-0"	text="Steinschaufel" />
-	<locale key="274-0"	text="Steinspitzhacke" />
-	<locale key="275-0"	text="Steinaxt" />
+	<locale key="272-0"	text="Steischwert" />
+	<locale key="273-0"	text="Steischufel" />
+	<locale key="274-0"	text="Steispitzhacke" />
+	<locale key="275-0"	text="Steiaxt" />
 	<locale key="276-0"	text="Diamantschwert" />
-	<locale key="277-0"	text="Diamantschaufel" />
+	<locale key="277-0"	text="Diamantschufel" />
 	<locale key="278-0"	text="Diamantspitzhacke" />
 	<locale key="279-0"	text="Diamantaxt" />
 	<locale key="280-0"	text="Stock" />
-	<locale key="281-0"	text="Schüssel" />
-	<locale key="282-0"	text="Pilzsuppe" />
+	<locale key="281-0"	text="Schössel" />
+	<locale key="282-0"	text="Pelzsoppe" />
 	<locale key="283-0"	text="Goldschwert" />
-	<locale key="284-0"	text="Goldschaufel" />
+	<locale key="284-0"	text="Goldschufel" />
 	<locale key="285-0"	text="Goldspitzhacke" />
 	<locale key="286-0"	text="Goldaxt" />
-	<locale key="287-0"	text="Faden" />
-	<locale key="288-0"	text="Feder" />
-	<locale key="289-0"	text="Schießpulver" />
-	<locale key="290-0"	text="Hölzerne Hacke" />
-	<locale key="291-0"	text="Steinhacke" />
-	<locale key="292-0"	text="Eisenhacke" />
+	<locale key="287-0"	text="Fade" />
+	<locale key="288-0"	text="Fäder" />
+	<locale key="289-0"	text="Schiesspolver" />
+	<locale key="290-0"	text="Hölzerni Hacke" />
+	<locale key="291-0"	text="Steihacke" />
+	<locale key="292-0"	text="Isehacke" />
 	<locale key="293-0"	text="Diamanthacke" />
 	<locale key="294-0"	text="Goldhacke" />
-	<locale key="295-0"	text="Samen" />
+	<locale key="295-0"	text="Same" />
 	<locale key="296-0"	text="Getreide" />
 	<locale key="297-0"	text="Brot" />
-	<locale key="298-0"	text="Lederhelm" />
-	<locale key="299-0"	text="Leder-Brustplatte" />
-	<locale key="300-0"	text="Leder-Hose" />
-	<locale key="301-0"	text="Leder-Schuhe" />
-	<locale key="302-0"	text="Ketten-Helm" />
-	<locale key="303-0"	text="Ketten-Brustplatte" />
-	<locale key="304-0"	text="Ketten-Host" />
-	<locale key="305-0"	text="Ketten-Schuhe" />
-	<locale key="306-0"	text="Eisen-Helm" />
-	<locale key="307-0"	text="Eisen-Brustplatte" />
-	<locale key="308-0"	text="Eisen-Hose" />
-	<locale key="309-0"	text="Eisen-Schuhe" />
+	<locale key="298-0"	text="Läderhelm" />
+	<locale key="299-0"	text="Läder-Broschtplatte" />
+	<locale key="300-0"	text="Läder-Hose" />
+	<locale key="301-0"	text="Läder-Schuhe" />
+	<locale key="302-0"	text="Chetten-Helm" />
+	<locale key="303-0"	text="Chetten-Broschtplatte" />
+	<locale key="304-0"	text="Chetten-Host" />
+	<locale key="305-0"	text="Chetten-Schuhe" />
+	<locale key="306-0"	text="Isen-Helm" />
+	<locale key="307-0"	text="Isen-Broschtplatte" />
+	<locale key="308-0"	text="Isen-Hose" />
+	<locale key="309-0"	text="Isen-Schuhe" />
 	<locale key="310-0"	text="Diamant-Helm" />
-	<locale key="311-0"	text="Diamant-Brustplatte" />
+	<locale key="311-0"	text="Diamant-Broschtplatte" />
 	<locale key="312-0"	text="Diamant-Hose" />
 	<locale key="313-0"	text="Diamant-Schuhe" />
 	<locale key="314-0"	text="Gold-Helm" />
-	<locale key="315-0"	text="Gold-Brustplatte" />
+	<locale key="315-0"	text="Gold-Broschtplatte" />
 	<locale key="316-0"	text="Gold-Hose" />
 	<locale key="317-0"	text="Gold-Schuhe" />
-	<locale key="318-0"	text="Feuerstein" />
+	<locale key="318-0"	text="Füürstei" />
 	<locale key="319-0"	text="Schweinefleisch" />
 	<locale key="320-0"	text="Gegrilltes Schweinefleisch" />
 	<locale key="321-0"	text="Gemälde" />
-	<locale key="322-0"	text="Goldener Apfel" />
-	<locale key="323-0"	text="Schild" />
+	<locale key="322-0"	text="Goldige Öpfel" />
+	<locale key="323-0"	text="Scheld" />
 	<locale key="324-0"	text="Holztür" />
 	<locale key="325-0"	text="Eimer" />
 	<locale key="326-0"	text="Wassereimer" />
 	<locale key="327-0"	text="Lavaeimer" />
 	<locale key="328-0"	text="Lore" />
 	<locale key="329-0"	text="Sattel" />
-	<locale key="330-0"	text="Eisentür" />
+	<locale key="330-0"	text="Isentür" />
 	<locale key="331-0"	text="Redstone" />
 	<locale key="332-0"	text="Schneeball" />
 	<locale key="333-0"	text="Boot" />
 	<locale key="334-0"	text="Leder" />
-	<locale key="335-0"	text="Milch" />
+	<locale key="335-0"	text="Melch" />
 	<locale key="336-0"	text="Lehmziegel" />
 	<locale key="337-0"	text="Lehm" />
-	<locale key="338-0"	text="Zuckerrohr" />
+	<locale key="338-0"	text="Zockerrohr" />
 	<locale key="339-0"	text="Papier" />
 	<locale key="340-0"	text="Buch" />
 	<locale key="341-0"	text="Schleimball" />
 	<locale key="342-0"	text="Güterlore" />
-	<locale key="343-0"	text="Angetriebene Lore" />
+	<locale key="343-0"	text="Antrebeni Lore" />
 	<locale key="344-0"	text="Ei" />
 	<locale key="345-0"	text="Kompass" />
 	<locale key="346-0"	text="Angel" />
 	<locale key="347-0"	text="Uhr" />
 	<locale key="348-0"	text="Glowstone (Staub)" />
-	<locale key="349-0"	text="Roher Fisch" />
-	<locale key="350-0"	text="Gegrillter Fisch" />
+	<locale key="349-0"	text="Rohe Fesch" />
+	<locale key="350-0"	text="Gegrillte Fesch" />
 	<locale key="351-0"	text="Tintensack" />
 	<locale key="351-1"	text="Rosenroter Farbstoff" />
-	<locale key="351-2"	text="Kaktusgrüner Farbstoff" />
+	<locale key="351-2"	text="Kaktusgrüne Farbstoff" />
 	<locale key="351-3"	text="Kakaobohne" />
 	<locale key="351-4"	text="Lapis Lazuli" />
-	<locale key="351-5"	text="Violetter Farbstoff" />
-	<locale key="351-6"	text="Türkisfarbener Farbstoff" />
-	<locale key="351-7"	text="Hellgrauer Farbstoff" />
-	<locale key="351-8"	text="Grauer Farbstoff" />
+	<locale key="351-5"	text="Violette Farbstoff" />
+	<locale key="351-6"	text="Türkisfarbene Farbstoff" />
+	<locale key="351-7"	text="Hellgraue Farbstoff" />
+	<locale key="351-8"	text="Graue Farbstoff" />
 	<locale key="351-9"	text="Rosa Farbstoff" />
-	<locale key="351-10"	text="Hellgrüner Farbstoff" />
-	<locale key="351-11"	text="Löwenzahngelber Farbstoff" />
-	<locale key="351-12"	text="Hellblauer Farbstoff" />
-	<locale key="351-13"	text="Pinker Farbstoff" />
-	<locale key="351-14"	text="Orangefarbener Farbstoff" />
-	<locale key="351-15"	text="Knochenmehl" />
-	<locale key="352-0"	text="Knochen" />
-	<locale key="353-0"	text="Zucker" />
-	<locale key="354-0"	text="Kuchen" />
+	<locale key="351-10"	text="Hellgrüne Farbstoff" />
+	<locale key="351-11"	text="Löwenzahngälbe Farbstoff" />
+	<locale key="351-12"	text="Hellblaue Farbstoff" />
+	<locale key="351-13"	text="Pinke Farbstoff" />
+	<locale key="351-14"	text="Orangefarbene Farbstoff" />
+	<locale key="351-15"	text="Chnochemäl" />
+	<locale key="352-0"	text="Chnochen" />
+	<locale key="353-0"	text="Zocker" />
+	<locale key="354-0"	text="Chuchen" />
 	<locale key="355-0"	text="Bett" />
 	<locale key="356-0"	text="Redstone Repeater" />
 	<locale key="357-0"	text="Keks" />
-	<locale key="358-0"	text="Karte" />
-	<locale key="359-0"	text="Schere" />
-	<locale key="360-0"	text="Melonenscheibe" />
-	<locale key="361-0"	text="Kürbiskerne" />
-	<locale key="362-0"	text="Melonenkerne" />
-	<locale key="363-0"	text="Rohes Rindfleisch" />
+	<locale key="358-0"	text="Charte" />
+	<locale key="359-0"	text="Scher" />
+	<locale key="360-0"	text="Melonescheibe" />
+	<locale key="361-0"	text="Kürbiskern" />
+	<locale key="362-0"	text="Melonenkern" />
+	<locale key="363-0"	text="Rohes Rendfleisch" />
 	<locale key="364-0"	text="Steak" />
 	<locale key="365-0"	text="Rohes Hühnchen" />
 	<locale key="366-0"	text="Gegrilltes Hühnchen" />
 	<locale key="367-0"	text="Verdorbenes Fleisch" />
 	<locale key="368-0"	text="Ender Perle" />
-	<locale key="369-0"	text="Feuerrute" />
+	<locale key="369-0"	text="Füürrute" />
 	<locale key="370-0"	text="Ghastträne" />
 	<locale key="371-0"	text="Goldklumpen" />
-	<locale key="372-0"	text="Netherwarzensamen" />
+	<locale key="372-0"	text="Netherwarzensame" />
 	<locale key="373-0"	text="Trank" />
-	<locale key="374-0"	text="Glasflasche" />
-	<locale key="375-0"	text="Spinnenauge" />
-	<locale key="376-0"	text="Fermentiertes Spinnenauge" />
-	<locale key="377-0"	text="Feuerpulver" />
+	<locale key="374-0"	text="Glasfläsche" />
+	<locale key="375-0"	text="Spinneaug" />
+	<locale key="376-0"	text="Fermentiertes Spinneaug" />
+	<locale key="377-0"	text="Füürpolver" />
 	<locale key="378-0"	text="Magmacreme" />
 	<locale key="379-0"	text="Braustand" />
-	<locale key="380-0"	text="Kessel" />
+	<locale key="380-0"	text="Chessel" />
 	<locale key="381-0"	text="Enderauge" />
-	<locale key="382-0"	text="Funkelnde Melone" />
+	<locale key="382-0"	text="Fonkelndi Melone" />
 	<locale key="383-50"	text="Creeper-Ei" />
 	<locale key="383-51"	text="Skelett-Ei" />
-	<locale key="383-52"	text="Spinnen-Ei" />
-	<locale key="383-53"	text="Riesen-Ei" />
+	<locale key="383-52"	text="Spinne-Ei" />
+	<locale key="383-53"	text="Riese-Ei" />
 	<locale key="383-54"	text="Zombie-Ei" />
 	<locale key="383-55"	text="Schleim-Ei" />
 	<locale key="383-56"	text="Ghast-Ei" />
 	<locale key="383-57"	text="Zombie-Pigman-Ei" />
 	<locale key="383-58"	text="Enderman-Ei" />
-	<locale key="383-59"	text="Höhlenspinnen-Ei" />
-	<locale key="383-60"	text="Silberfisch-Ei" />
+	<locale key="383-59"	text="Höhlenspinne-Ei" />
+	<locale key="383-60"	text="Selberfesch-Ei" />
 	<locale key="383-61"	text="Lohen-Ei" />
 	<locale key="383-62"	text="Magmawürfel-Ei" />
 	<locale key="383-63"	text="Enderdrachen-Ei" />
 	<locale key="383-64"	text="Wither-Ei" />
-  <locale key="383-65"	text="Fledermaus-Ei" />
+  <locale key="383-65"	text="Flädermus-Ei" />
 	<locale key="383-66"	text="Hexen-Ei" />
 	<locale key="383-90"	text="Schweine-Ei" />
-	<locale key="383-91"	text="Schaf-Ei" />
-	<locale key="383-92"	text="Kuh-Ei" />
+	<locale key="383-91"	text="Schof-Ei" />
+	<locale key="383-92"	text="Chuh-Ei" />
 	<locale key="383-93"	text="Hühner-Spawner-Ei" />
 	<locale key="383-94"	text="Tintenfisch-Ei" />
 	<locale key="383-95"	text="Wolf-Ei" />
-	<locale key="383-96"	text="Pilzkuh-Ei" />
+	<locale key="383-96"	text="Pelzchuh-Ei" />
 	<locale key="383-97"	text="Schneegolem-Ei" />
 	<locale key="383-98"	text="Ozelot-Ei" />
-	<locale key="383-99"	text="Eisengolem-Ei" />
+	<locale key="383-99"	text="Isengolem-Ei" />
 	<locale key="383-120"	text="Dorfbewohner-Ei" />
-	<locale key="384-0"	text="Zauberflasche" />
-	<locale key="385-0"	text="Feuerladung" />
-	<locale key="386-0"	text="Buch und Feder" />
-	<locale key="387-0"	text="Geschriebenes Buch" />
+	<locale key="384-0"	text="Zauberfläsche" />
+	<locale key="385-0"	text="Füürladig" />
+	<locale key="386-0"	text="Buch und Fäder" />
+	<locale key="387-0"	text="Beschrebnis Buch" />
 	<locale key="388-0"	text="Smaragd" />
-	<locale key="389-0"	text="Itemrahmen" />
-	<locale key="390-0"	text="Blumentopf" />
-	<locale key="391-0"	text="Karotte" />
+	<locale key="389-0"	text="Itemrahme" />
+	<locale key="390-0"	text="Blumetopf" />
+	<locale key="391-0"	text="Karrote" />
 	<locale key="392-0"	text="Kartoffel" />
-	<locale key="393-0"	text="Gebackene Kartoffel" />
-	<locale key="394-0"	text="Giftige Kartoffel" />
-	<locale key="395-0"	text="Karte" />
-	<locale key="396-0"	text="Goldene Karotte" />
+	<locale key="393-0"	text="Gebackeni Kartoffel" />
+	<locale key="394-0"	text="Giftigi Kartoffel" />
+	<locale key="395-0"	text="Charte" />
+	<locale key="396-0"	text="Goldeni Karotte" />
 	<locale key="397-0"	text="Skelettschädel" />
 	<locale key="397-1"	text="Witherskelettschädel" />
-	<locale key="397-2"	text="Zombiekopf" />
-	<locale key="397-3"	text="Spielerkopf" />
-	<locale key="397-4"	text="Creeperkopf" />
-	<locale key="398-0"	text="Angel mit Karotte" />
+	<locale key="397-2"	text="Zombiechopf" />
+	<locale key="397-3"	text="Spielerchopf" />
+	<locale key="397-4"	text="Creeperchopf" />
+	<locale key="398-0"	text="Angel met Karotte" />
 	<locale key="399-0"	text="Nether Stern" />
-	<locale key="400-0"	text="Kürbiskuchen" />
-	<locale key="401-0"	text="Feuerwerksrakete" />
-	<locale key="402-0"	text="Feuerwerksstern" />
+	<locale key="400-0"	text="Chörbischuchen" />
+	<locale key="401-0"	text="Füürwärchsrakete" />
+	<locale key="402-0"	text="Füürwärchsstern" />
 	<locale key="403-0"	text="Verzaubertes Buch" />
 	<locale key="404-0"	text="Komparator" />
 	<locale key="405-0"	text="Netherziegel" />
 	<locale key="406-0"	text="Netherquarz" />
 	<locale key="407-0"	text="TNT-Lore" />
-  <locale key="417-0"	text="Eiserne Pferderüstung" />
-  <locale key="418-0"	text="Goldene Pferderüstung" />
-  <locale key="419-0"	text="Diamantene Pferderüstung" />
+  <locale key="417-0"	text="Iserni Pferderöschtig" />
+  <locale key="418-0"	text="Goldeni Pferderöschtig" />
+  <locale key="419-0"	text="Diamantene Pferderöschtig" />
   <locale key="420-0"	text="Leine" />
-  <locale key="421-0"	text="Namensschild" />
+  <locale key="421-0"	text="Namensscheld" />
 	<locale key="2256-0"	text="13-Schallplatte" />
 	<locale key="2257-0"	text="Cat-Schallplatte" />
 	<locale key="2258-0"	text="Blocks-Schallplatte" />
