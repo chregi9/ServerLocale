@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <warnsystem>
-  <locale  key="error"	                                  text="§redEs ist ein Fehlder bei der Verarbeitung aufgetreten" />
-  <locale  key="add_success"                              text="§darkgreenVerwarnung erfolgreich hinzugefügt: §gold{2}{newline}§darkgreenDer Spieler §gold{0} §darkgreenhat nun §gold{1} §darkgreenVerwarnpunkte!" />
-  <locale  key="del_success"	                            text="§redVerwarnung erfolgreich entfernt: §gold{2}{newline}§redDer Spieler §gold{0} §redhat nun §gold{1} §redVerwarnpunkte!" />
-  <locale  key="del_id_error"                             text="§redDie Verwarnung mit der ID §gold{0} §redexistiert nicht oder wurde bereits gelöscht." />
-  <locale  key="list_head"	                              text="§darkgreenDie letzten 10 verteilten Verwarnungen:" />
-  <locale  key="list_element"	                            text="§gold{0}§darkgreen: §gold{1} §darkgreen(§gold{2} §darkgreenVP) von §reset{3}§darkgreen: §gold{4}" />
-  <locale  key="list_player_head"	                        text="§darkgreenDie letzten 10 verteilten Verwarnungen von §reset{0}§darkgreen:" />
-  <locale  key="list_player_element"	                    text="§gold{0}§darkgreen: (§gold{1} §darkgreenVP) von §reset{2}§darkgreen: §gold{3}" />
-  <locale  key="info_success"	                            text="§darkgreenDer Spieler §reset{0} §darkgreenhat §gold{1} §darkgreenVP (§gold{2} §darkgreenVerwarnungen)." />
+  <locale  key="error"	                                  text="§redEsch esch en Fehler bi der Verarbeitig ufträte" />
+  <locale  key="add_success"                              text="§darkgreenVerwarnig erfolgrich hinzugfügt: §gold{2}{newline}§darkgreenDe Speler §gold{0} §darkgreenhät jetzt §gold{1} §darkgreenVerwarnpönkt!" />
+  <locale  key="del_success"	                            text="§redVerwarnig erfolgrich entfernt: §gold{2}{newline}§redDe Speler §gold{0} §redhed jetzt §gold{1} §redVerwarnpönkt!" />
+  <locale  key="del_id_error"                             text="§redDi Verwarnig met de ID §gold{0} §redexistiert nöd oder esch bereits glöscht worde." />
+  <locale  key="list_head"	                              text="§darkgreenDi letzte 10 verteilte Verwarnige:" />
+  <locale  key="list_element"	                            text="§gold{0}§darkgreen: §gold{1} §darkgreen(§gold{2} §darkgreenVP) vo §reset{3}§darkgreen: §gold{4}" />
+  <locale  key="list_player_head"	                        text="§darkgreenDi letzte 10 verteilte Verwarnige vo §reset{0}§darkgreen:" />
+  <locale  key="list_player_element"	                    text="§gold{0}§darkgreen: (§gold{1} §darkgreenVP) vo §reset{2}§darkgreen: §gold{3}" />
+  <locale  key="info_success"	                            text="§darkgreenDe Speler §reset{0} §darkgreenhat §gold{1} §darkgreenVP (§gold{2} §darkgreenVerwarnige)." />
 </warnsystem>
