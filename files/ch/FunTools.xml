@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <funtools>
-  <locale  key="error"	                                  text="§redEs ist ein Fehler bei der Verarbeitung aufgetreten" />
+  <locale  key="error"	                                  text="§redEs esch en Fehler bi der Verarbeitig ufträte" />
   
-  <locale  key="crashcommand_crash"	                      text="§gold{0}§darkgreen hat den Client von §gold{1}§darkgreen gecrashed!" />
+  <locale  key="crashcommand_crash"	                      text="§gold{0}§darkgreen hät de Client vo §gold{1}§darkgreen gecrashed!" />
   
-	<locale key="speed_get"														      text="§darkgreenFlieggeschwindigkeit von §gold{0}§darkgreen gesetzt auf §gold{1}§darkgreen!{newline}§darkgreenLaufgeschwindigkeit von §gold{0}§darkgreen gesetzt auf §gold{2}§darkgreen!" />
-  <locale key="speed_fly"										              text="§darkgreenFlieggeschwindigkeit von §gold{0}§darkgreen ist auf §gold{1}§darkgreen!" />
-  <locale key="speed_walk"										            text="§darkgreenLaufgeschwindigkeit von §gold{0}§darkgreen ist auf §gold{1}§darkgreen!" />
+	<locale key="speed_get"														      text="§darkgreenFluggschwendikeit vo §gold{0}§darkgreen gänderet uf §gold{1}§darkgreen!{newline}§darkgreenLaufgschwendigkeit vo §gold{0}§darkgreen uf §gold{2}§darkgreen gsetzt!" />
+  <locale key="speed_fly"										              text="§darkgreenFluggschwendikeit vo §gold{0}§darkgreen isch uf §gold{1}§darkgreen gsetzt wprde!" />
+  <locale key="speed_walk"										            text="§darkgreenLaufgschwendigkeit vo §gold{0}§darkgreen isch uf §gold{1}§darkgreen gesetzt worde!" />
   
-  <locale  key="list_player_head"	                        text="§greenDie letzten 10 verteilten Verwarnungen von §reset{0}§green:" />
-  <locale  key="list_player_element"	                    text="§gold{0}§green: (§gold{1}§greenVP) von §reset{2}§green: §gold{3}" />
-  <locale  key="info_success"	                            text="§greenDer Spieler §reset{0} §greenhat §gold{1}§greenVP (§gold{2} §greenVerwarnungen){newline}Die nächste Verwarnung läuft am §gold{Date,dd.MM.yyyy,{3}} §greenab." />
+  <locale  key="list_player_head"	                        text="§greenDi letzte 10 verteilte Verwarnige vo §reset{0}§green:" />
+  <locale  key="list_player_element"	                    text="§gold{0}§green: (§gold{1}§greenVP) vo §reset{2}§green: §gold{3}" />
+  <locale  key="info_success"	                            text="§greenDe Speler §reset{0} §greenhat §gold{1}§greenVP (§gold{2} §greenVerwarnungen){newline}Di nächst Verwarnig lauft  am §gold{Date,dd.MM.yyyy,{3}} §greenab." />
 </funtools>
