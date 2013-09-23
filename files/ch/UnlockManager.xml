@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <unlockmanager>
   <!-- Unlock System -->
-  <locale  key="unlock_login_guest"	                        text="§greenDein zuständiger Freischalter ist wieder online!" />
-  <locale  key="unlock_login_staff"	                        text="§greenDein Gast ist wieder online!" />
-  <locale  key="unlock_logout_guest"	                      text="§redDein Freischalter hat sich ausgeloggt.{newline}Du kannst warten oder die Freischaltung über §gold/uexit§red beenden!" />
-  <locale  key="unlock_logout_staff"	                      text="§redDein Gast hat sich ausgeloggt.{newline}Du kannst warten oder die Freischaltung abbrechen!" />
-  <locale  key="login_guest"	                              text="§darkgreenWillkommen auf §gold{0}§darkgreen!{newline}Bitte lese die Regeln auf §gold{1}§darkgreen durch um dich freizuschalten!" />
-  <locale  key="login_staff"	                              text="§darkgreenEs befinden sich §gold{0}§darkgreen Gäste in der Warteschlange!" />
+  <locale  key="unlock_login_guest"	                        text="§greenDin zuständige Freischalter esch weder online!" />
+  <locale  key="unlock_login_staff"	                        text="§greenDin Gast esch weder online!" />
+  <locale  key="unlock_logout_guest"	                      text="§redDin Freischalter esch offline.{newline}Du chasch warte oder d'Freischaltig  öber §gold/uexit§red beände!" />
+  <locale  key="unlock_logout_staff"	                      text="§redDin Gast hed esch offline.{newline}Du chasch warte oder d'Freischaltig abbräche!" />
+  <locale  key="login_guest"	                              text="§darkgreenWellkomme uf §gold{0}§darkgreen!{newline}Bitte läs d'Rägle §gold{1}§darkgreen dore um dech Freischalte zlo!" />
+  <locale  key="login_staff"	                              text="§darkgreenEs befendet sech §gold{0}§darkgreen Gäste i de Warteschlange!" />
   
   <!-- Shared Messages -->
-  <locale  key="shared_noguest"	                            text="§redDu befindest dich in keiner aktiven Freischaltung!" />
-  <locale  key="shared_hasguest"	                          text="§redDu befindest dich bereits in einer Freischaltung mit §gold{0}§red!" />
+  <locale  key="shared_noguest"	                            text="§redDu befendsch dich i keiner aktive Freischaltig meh!" />
+  <locale  key="shared_hasguest"	                          text="§redDu befendsch dich i einer Freischaltig met §gold{0}§red!" />
   
   <!-- Commands -->
-  <locale  key="uactivatecommand_success"	                  text="§darkgreenDu hast dich der Warteschlange angeschlossen!{newline}Sobald ein Staff Zeit hat wird es sich um dich kümmern." />
-  <locale  key="uactivatecommand_error"	                    text="§redDu bist bereits in der Warteschlange!" />
-  <locale  key="uactivatecommand_declined"	                text="§redDu wurdest abgelehnt. Versuche es in §gold{Time,{0}}§red erneut!" />
-  <locale  key="uactivatecommand_staff"	                    text="§gold{0}§darkgreen hat sich der Warteschlange angeschlossen (§gold{1}§darkgreen Ablehnungen){newline}§darkgreenEs befinden sich §gold{2}§darkgreen Gäste in der Warteschlange!" />
+  <locale  key="uactivatecommand_success"	                  text="§darkgreenDu hesch dich de Warteschalge agschlosse!{newline}Sobald en Staff Zit het werd er sech um dech kömmere." />
+  <locale  key="uactivatecommand_error"	                    text="§redDu bisch bereits i de Warteschlange!" />
+  <locale  key="uactivatecommand_declined"	                text="§redDu besch abglehnt worde. Versuch es i §gold{Time,{0}}§red nomol!" />
+  <locale  key="uactivatecommand_staff"	                    text="§gold{0}§darkgreen het sech de Warteschlange agschlosse (§gold{1}§darkgreen Ablehnungen){newline}§darkgreenEs befended sech §gold{2}§darkgreen Gäste  i de Warteschlange!" />
   
-  <locale  key="ugetguestcommand_success"	                  text="§darkgreenDir wurde der Gast §gold{0}§darkgreen zugewiesen!" />
-  <locale  key="ugetguestcommand_empty"	                    text="§redEs befindet sich kein Gast in der Warteschlange" />
-  <locale  key="ugetguestcommand_start_staff"	              text="§darkgreenDu hast die Freischaltung von §gold{0}§darkgreen übernommen!" />
-  <locale  key="ugetguestcommand_start_guest"	              text="§darkgreenDeine Freischaltung wurde von §gold{0}§darkgreen übernommen!{newline}Um mit ihm zu schreiben kannst du ganz normal den Chat nutzen." />
-  <locale  key="ugetguestcommand_decline_list"	            text="§gold{0}§green wurde bisher §gold{1}§green mal abgelehnt:" />
-  <locale  key="ugetguestcommand_decline_entry"	            text="§gold{Date,dd.MM.yyyy HH:mm,{0}} §darkgreen von §gold{1}§darkgreen wegen §gold{2}" />
-  <locale  key="ugetguestcommand_start_public"	            text="§gold{0}§darkgreen hat die Freischaltung von §gold{1}§darkgreen übernommen!" />
+  <locale  key="ugetguestcommand_success"	                  text="§darkgreenDir esch de Gast §gold{0}§darkgreen zugewiesen worde!" />
+  <locale  key="ugetguestcommand_empty"	                    text="§redEs befendet sech kei Gast i de Warteschlange" />
+  <locale  key="ugetguestcommand_start_staff"	              text="§darkgreenDu hesch d'Freischaltig vo §gold{0}§darkgreen überno!" />
+  <locale  key="ugetguestcommand_start_guest"	              text="§darkgreenDini Freischaltig esch vo §gold{0}§darkgreen überno worde!{newline}Om met em schribe chasch ganz normal de Chat notze." />
+  <locale  key="ugetguestcommand_decline_list"	            text="§gold{0}§green esch besher §gold{1}§green mal abgelehnt worde:" />
+  <locale  key="ugetguestcommand_decline_entry"	            text="§gold{Date,dd.MM.yyyy HH:mm,{0}} §darkgreen von §gold{1}§darkgreen wägen §gold{2}" />
+  <locale  key="ugetguestcommand_start_public"	            text="§gold{0}§darkgreen het d'Freischaltig vo §gold{1}§darkgreen überno!" />
   
-  <locale  key="ulistcommand_list"	                        text="§darkgreenEs befinden sich §gold{0}§darkgreen Gäste in der Warteschlange und §gold{1}§darkgreen weitere in der Freischaltung:" />
-  <locale  key="ulistcommand_entry"	                        text="§gold{0}§darkgreen, Ablehnungen: §gold{1}§darkgreen ({If,{2}}§greenOnline{Else}§redOffline{EndIf}§darkgreen){If,{3}} ({4}§darkgreen){EndIf}" />
+  <locale  key="ulistcommand_list"	                        text="§darkgreenEs befendet sech §gold{0}§darkgreen Gäste i de Warteschlange ond §gold{1}§darkgreen witeri i de Freischaltung:" />
+  <locale  key="ulistcommand_entry"	                        text="§gold{0}§darkgreen, Ablehnige: §gold{1}§darkgreen ({If,{2}}§greenOnline{Else}§redOffline{EndIf}§darkgreen){If,{3}} ({4}§darkgreen){EndIf}" />
 
-  <locale  key="udeclinecommand_decline_staff"	            text="§redDer Gast wurde abgelehnt wegen: §gold{0}" />
-  <locale  key="udeclinecommand_decline_guest"	            text="§redDu wurdest abgelehnt. Du kannst eine erneut Freischaltung versuchen in:{newline}§gold{Time,{1}}" />
+  <locale  key="udeclinecommand_decline_staff"	            text="§redDe Gast esch abglehnt worde wäge: §gold{0}" />
+  <locale  key="udeclinecommand_decline_guest"	            text="§redDu besch abglehnt worde. Du chasch dich erneut Freischalte i:{newline}§gold{Time,{1}}" />
   
-  <locale  key="uacceptcommand_error"	                      text="§redDu hast dem Gast erst §gold{0}§red von §gold{1}§red benötigten Fragen gestellt. " />
-  <locale  key="uacceptcommand_accept_staff"	              text="§darkgreenDu hast §gold{0}§darkgreen erfolgreich Freigeschaltet!" />
-  <locale  key="uacceptcommand_accept_guest"	              text="§darkgreenDu wurdest freigeschaltet und kannst nun auf §gold{0}§darkgreen spielen!" />
+  <locale  key="uacceptcommand_error"	                      text="§redDu hesch em Gast ersch §gold{0}§red vo §gold{1}§red benötigte Froge gestellt. " />
+  <locale  key="uacceptcommand_accept_staff"	              text="§darkgreenDu hesch §gold{0}§darkgreen erfolgrich Freigschaltet!" />
+  <locale  key="uacceptcommand_accept_guest"	              text="§darkgreenDu besch jetzt Freigschalte und chasch uf §gold{0}§darkgreen spele!" />
   
-  <locale  key="uquestioncommand_error"	                    text="§redEs wurden alle verfügbaren Fragen gestellt!" />
+  <locale  key="uquestioncommand_error"	                    text="§redEs send alli Froge gstellt!" />
   
-  <locale  key="urepeatcommand_error"	                      text="§redEs wurden bisher keine Fragen gestellt!" />
+  <locale  key="urepeatcommand_error"	                      text="§redEs esch besher kei frog gstellt worde!" />
   
-  <locale  key="uanswercommand_lastquestion"	              text="{0}Letzte Frage: {1}" /> <!-- Keine Farbe ist gewollt! -->
+  <locale  key="uanswercommand_lastquestion"	              text="{0}Letzti Frog: {1}" /> <!-- Keine Farbe ist gewollt! -->
   
-  <locale  key="upokecommand_poke"	                        text="§greenDer Gast wurde angestubst!" />
+  <locale  key="upokecommand_poke"	                        text="§greenDe Gast esch agstopst worde!" />
   
-  <locale  key="uexitcommand_error"	                        text="§redDu darfst diese Freischaltung nicht verlassen!" />
-  <locale  key="uexitcommand_staff"	                        text="§darkgreenFreischaltung mit §gold{0}§darkgreen wurde ohne Gründe beendet!" />
-  <locale  key="uexitcommand_guest"	                        text="§darkgreenDu hast deine Freischaltung freiwillig verlassen.{newline}Du kannst jederzeit eine neue anfangen!" />
+  <locale  key="uexitcommand_error"	                        text="§redDu dörfsch die Freischaltig ned verlo	!" />
+  <locale  key="uexitcommand_staff"	                        text="§darkgreenFreischaltige met §gold{0}§darkgreen esch ohni Grönd beändet worde!" />
+  <locale  key="uexitcommand_guest"	                        text="§darkgreenDu hesch dini Freischaltig Freiwellig verlo.{newline}DU chasch jeder Zit e neui Afo!" />
 
-  <locale  key="umovecommand_error"	                        text="§redDie angegebene Person darf nicht freischalten!" />
-  <locale  key="umovecommand_source"	                      text="§darkgreenVersuche Freischaltung an §gold{0}§darkgreen weiterzugeben..." />
-  <locale  key="umovecommand_target"	                      text="§gold{0}§darkgreen fragt ob du die Freischaltung mit §gold{1}§darkgreen übernehmen willst{newline}Annehmen mit:§gold /umaccept" />
+  <locale  key="umovecommand_error"	                        text="§redDie agebeni Person dörf ned Freischalte!" />
+  <locale  key="umovecommand_source"	                      text="§darkgreenVersuch Freischaltig a §gold{0}§darkgreen witer zgeh..." />
+  <locale  key="umovecommand_target"	                      text="§gold{0}§darkgreen frogt ob du d'Freischaltig vo §gold{1}§darkgreen öberneh welsch{newline}Annehmen mit:§gold /umaccept" />
   
-  <locale  key="umoveacceptcommand_error"	                  text="§redEs gibt keine Freischaltung die an dich weitergeleitet wurde!" />
-  <locale  key="umoveacceptcommand_source"	                text="§gold{0}§darkgreen nimmt deine Anfrage an und übernimmt die Freischaltung von §gold{1}§darkgreen!" />
-  <locale  key="umoveacceptcommand_target"	                text="§greenDu hast die Freischaltung übernommen!" />
-  <locale  key="umoveacceptcommand_guest"	                  text="§darkgreenDu wirst nun von §gold{0}§darkgreen weiter freigeschaltet!" />
+  <locale  key="umoveacceptcommand_error"	                  text="§redEs Es ged kei Freischaltig die a dech Witergleitet worde esch!" />
+  <locale  key="umoveacceptcommand_source"	                text="§gold{0}§darkgreen nehmt dini Freischaltig a ond führt sie vo §gold{1}§darkgreen! witer" />
+  <locale  key="umoveacceptcommand_target"	                text="§greenDu hesch d'Freischaltig öbernoh!" />
+  <locale  key="umoveacceptcommand_guest"	                  text="§darkgreenDu wesch nun §gold{0}§darkgreen witer Freigschaltet!" />
 </unlockmanager>
