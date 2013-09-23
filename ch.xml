@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <!--
 	Achtung! Diese Datei wird für jede Sprache benötigt. In dieser Datei stehen sowohl die
 	grundlegenden Informationen für die Übersetzung als auch mögliche Einstellungen.
@@ -91,15 +91,15 @@
 <!--
 	.: Unlimitedworld Locales System by DerTod2 2013 :.
 
-	German (Deutsch) by DerTod2 2013
+	Swiss (Deutsch) by chregi9 2013
 	http://unlimitedworld.de/
 -->
-<german>
-	<locale key="name"	        value="Deutsch" />
-  <locale key="tag"	          value="de" />
-  <locale key="description"	  value="Klassisches Hochdeutsch ohne (bewusste) Dialekte" />
-	<locale key="author"	  		value="DerTod2" />
-	<locale key="version"				value="2.01" />
+<Swiss>
+	<locale key="name"	        value="Swiss" />
+  <locale key="tag"	          value="ch" />
+  <locale key="description"	  value="Schweizer-Deutsch aus dem Aargau" />
+	<locale key="author"	  		value="chregi9" />
+	<locale key="version"				value="1.00" />
 
 	<setting key="shortcolor"	  value="false" />
 	<setting key="expressions"	value="true" />
@@ -121,4 +121,4 @@
   <file name="UnlockManager.xml" />
   <file name="WarnSystem.xml" />
   <file name="WorldLogger.xml" />
-</german>
+</Swiss>
