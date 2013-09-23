@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <worldlogger>
   <!-- Log System -->
-  <locale  key="coords"	                                    text="§gold{If,{0}}Block{Else}Container{EndIf}§darkgreen Info für §gold{1} {2}x {3}y {4}z" />
+  <locale  key="coords"	                                    text="§gold{If,{0}}Block{Else}Container{EndIf}§darkgreen Info för §gold{1} {2}x {3}y {4}z" />
   <locale  key="block"	                                    text="§gold{Date,dd.MM.yyyy HH:mm,{0}} -> ({If,{1}}Gesetzt{Else}Abgebaut{EndIf}) {2} §green| {3}:{4}" />
   <locale  key="container"	                                text="§gold{Date,dd.MM.yyyy HH:mm,{0}} -> ({If,{1}Raus{Else}Rein{EndIf}) {2} §green| {3}:{4} ({5})" />
-  <locale  key="empty"	                                    text="§redEs wurde keine Logs gefunden!" />
+  <locale  key="empty"	                                    text="§redEs send kei Logs gfonde worde!" />
   
   <!-- Commands -->
-  <locale  key="logcommand_unknowntype"	                    text="§redDer Typ §gold{0}§red ist unbekannt oder nicht gültig!" />
-  <locale  key="logcommand_on"	                            text="§darkgreenLog-Modus wurde aktiviert für §gold{If,{0}}Blöcke{Else}Container{EndIf}§darkgreen!" />
-  <locale  key="logcommand_off"	                            text="§darkgreenLog-Modus wurde §reddeaktiviert§darkgreen!" />
-  <locale  key="logcommand_info"	                          text="§goldTipp:§darkgreen Es wird kein Material benötigt{newline}Linksklick -> Angewählter Block{newline}Rechtsklick -> Nächster Block in angeklickter Richtung" />  
-  <locale  key="logcommand_unknownlocation"	                text="§redDie angegebenen Koordinaten sind fehlerhaft!" />
+  <locale  key="logcommand_unknowntype"	                    text="§redDer Typ §gold{0}§red esch unbekannt oder nicht gültig!" />
+  <locale  key="logcommand_on"	                            text="§darkgreenLog-Modus esch aktiviert för §gold{If,{0}}Blöcke{Else}Container{EndIf}§darkgreen worde!" />
+  <locale  key="logcommand_off"	                            text="§darkgreenLog-Modus esch §reddeaktiviert§darkgreen worde!" />
+  <locale  key="logcommand_info"	                          text="§goldTipp:§darkgreen Es werd kei Material benötigt{newline}Linksklick -> Angewählter Block{newline}Rechtsklick -> Nächster Block in angeklickter Richtung" />  
+  <locale  key="logcommand_unknownlocation"	                text="§redDie angegebenen Koordinaten send fehlerhaft!" />
 </worldlogger>
