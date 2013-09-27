@@ -16,7 +16,7 @@
   <locale key="unknownzonetype"				text="§redDe Zonetyp §gold{0}§red esch nöd gfonde worde!" />
   
   <!-- Zone System Find and Create Messages -->
-  <locale key="zone_posa_cuboid"	    text="§darkgreeKlick met emene §gold{0}§darkgreen jetzt de ersti Eckponkt a!" />
+  <locale key="zone_posa_cuboid"	    text="§darkgreenKlick met emene §gold{0}§darkgreen jetzt de ersti Eckponkt a!" />
   <locale key="zone_posa_sphere"	    text="§darkgreenKlicke met emene §gold{0}§darkgreen jetzt de Mettelponkt a!" />
   <locale key="zone_posa_cylinder"	  text="§darkgreenKlicke met emene §gold{0}§darkgreen jetzt de Mettelponkt a!" />
   <locale key="zone_posa"					    text="§darkgreenPosition §goldA§darkgreen gsetzt bi: §gold{0}x {1}y {2}z" />
