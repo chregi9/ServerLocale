@@ -27,7 +27,7 @@
   
   <locale  key="warpcommand_warp"	                           text="§darkgreenDu bisch erfolgrich zom gold{0}§darkgreen teleportiert worde!" />
   
-  <locale  key="warpscommand_empty"	                         text="§redEs send kei Warps {If,{0}}für §gold{1}§red {EndIf} gfonde worde!" />
+  <locale  key="warpscommand_empty"	                         text="§redEs send kei Warps {If,{0}}für §gold{1}§red {EndIf}gfonde worde!" />
   <locale  key="warpscommand_list"	                         text="{If,{0}}§gold{1}§darkgreen hät{Else}§darkgreenEs ged{EndIf} §gold{2}§darkgreen Warps: {newline}§gold{3}" />
 
   <locale  key="teleportcommand_edit_group"	                 text="§darkgreenDe Teleport §gold{0}§darkgreen benötigt jetzt d'Groppe §gold{1}§darkgreen!" />
