@@ -23,6 +23,14 @@
   <locale  key="shared_measure_area"	                      text="§darkgreenDemet hed er en Flächi vo §gold{0}§darkgreen sowie es Volumen vo §gold{1}§darkgreen." />
   <locale  key="shared_measure_blocks"	                    text="§darkgreenVo alle Blöck send §gold{0}%§darkgreen us Loft ond §gold{1}§darkgreen Blöck us andere Materialie!" />
   
+  <!-- Offline System -->
+  <locale  key="offline_guest_forbidden"	                  text="§redGäst chönd ned biträte,{newline}wärend Session Server offline send!" />
+  <locale  key="offline_timelimitreached"	                  text="§redDu hesch länger als §gold{Time,{0}}§red brucht!{newline}Versuchs nomol!" />
+  <locale  key="offline_boardauthmissing"	                  text="§redBitte authentifiziere dech erscht im Forum!" />
+  <locale  key="offline_processstart"	                      text="§redUm uf §gold{0}§red z'spele authentifiziere dech jetzt im Forum!{newline}Du hesch deför {gold{Time,{1}}§red Zit!" />
+  <locale  key="offline_sessionchanged"	                    text="§goldAchtung:§darkgreen Die Mojang Session Server send {If,{0}}§greenOnline{Else}§redOffline{EndIf}§darkgreen!" />
+  <locale  key="offline_nopassword"	                        text="§redDu benötigscht es gsetzts Passwort för din Offline Login!" />
+  
   <!-- Commands -->
   <locale  key="findcommand_on"	                            text="§darkgreenFind esch aktiviert. Schlo met em §gold{0}§darkgreen uf de Bode um Zone z'suche!" />
   <locale  key="findcommand_off"	                          text="§redFind esch deaktiviert!" />
