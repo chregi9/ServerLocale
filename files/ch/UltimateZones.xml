@@ -35,7 +35,10 @@
   <locale  key="groupcommand_group_list"	                   text="§darkgreenEs send §gold{0}§darkgreen Standarträcht för die Groppe §gold{1}§darkgreenvergeben: §gold{2}worde" />
   <locale  key="groupcommand_group_list_empty"	             text="§redEs send besher kei Standarträcht vergeh worde!" />
   <locale  key="groupcommand_list"	                         text="§darkgreenEs ged §gold{0}§darkgreen Rechte wo vergeh wärde chönd: §gold{1}" />
-  
+  <locale  key="groupcommand_info"	                         text="§darkgreenDie Groppe §gold{0} beinhaltet §gold{1}§darkgreen Hauptzone ond §gold{2}§darkgreen Kindzonen:" />
+  <locale  key="groupcommand_info_parent"	                   text="§darkgreenHauptzone §gold{0} zfende bi §gold{1}§darkgreenx §gold{2}§darkgreeny §gold{3}§darkgreenz" />
+  <locale  key="groupcommand_info_child"	                   text="§darkgreenKindzone §gold{0} vo de Zone {1} fendsch bi §gold{2}§darkgreenx §gold{3}§darkgreeny §gold{4}§darkgreenz" />
+ 
   <locale  key="rightscommand_group_list"	                   text="§darkgreenFör die Groppe §gold{0}§darkgreen send Rächt verteilt worde a: §gold{1}" />  
   <locale  key="rightscommand_group_list_empty"	             text="§redEs send besher kei Rächt vergeh worde!" />
   <locale  key="rightscommand_group_list_player"	           text="§darkgreenEs es send folgendi Rächt a §gold{0}§darkgreen vergäh: §gold{1}" />
@@ -63,5 +66,8 @@
   <locale  key="zonecommand_add_child"	                     text="§greenDi Erstellig het agfange!" />
   <locale  key="zonecommand_add_abort"	                     text="§redDi Zoneerstellig wurde abgebrochen!" />
   <locale  key="zonecommand_del_success"	                   text="§redDi Zone §gold{0}§red esch glöscht worde!" />
-  
+  <locale  key="zonecommand_info"	                           text="§darkgreenZoneninformatione för d'Zone §gold{0}§darkgreen:" />
+  <locale  key="zonecommand_info_type"	                     text="§darkgreenTyp: §gold{If,{0}}Hauptzone{Else}Kindzone{EndIf}§darkgreen vo de Groppe §gold{1}" />
+  <locale  key="zonecommand_info_center"	                   text="§darkgreenMettelpunkt: §gold{0}§darkgreenx §gold{1}§darkgreeny §gold{2}§darkgreenz" />
+  <locale  key="zonecommand_info_extra"	                     text="§darkgreenFlächi: §gold{0}§darkgreen; Volumen: §gold{1}" />
 </ultimatezones>
