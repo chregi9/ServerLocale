@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <moderationtools>
+  <!-- Plugins Command Description -->
+  <locale key="description"	                                 text="Erlaubts de Server z'Moderiere z.B. über Mutes, Kicks oder Speler z'bannen." />
+
+
+
   <!-- Ban and Mute System -->
   <locale  key="login_banned"	                               text="§redDu bisch gebannt wäge folgendem Grund:{newline}§gold{0}§red{If,{1}}{newline}Restzit: §gold{Time,{2}}{EndIf}" />
   <locale  key="chat_muted"	                                 text="§redDu bisch gemuted wäge: {newline}§gold{0}{newline}§redRestzit: §gold{Time,{1}}" />
