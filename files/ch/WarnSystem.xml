@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <warnsystem>
+  <!-- Plugins Command Description -->
+  <locale key="description"	                              text="Erlaubt es Speler intern z'verwarne" />
+
   <locale  key="error"	                                  text="§redEsch esch en Fehler bi der Verarbeitig ufträte" />
   <locale  key="add_success"                              text="§darkgreenVerwarnig erfolgrich hinzugfügt: §gold{2}{newline}§darkgreenDe Speler §gold{0} §darkgreenhät jetzt §gold{1} §darkgreenVerwarnpönkt!" />
   <locale  key="del_success"	                            text="§redVerwarnig erfolgrich entfernt: §gold{2}{newline}§redDe Speler §gold{0} §redhed jetzt §gold{1} §redVerwarnpönkt!" />
