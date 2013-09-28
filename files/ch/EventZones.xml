@@ -1,23 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <eventzones>
-   <!-- Help System Non Timed -->
-  <locale  key="help_key_break"	                             text="Eine Auflistung von Typen ist möglich über <ItemId:SubId,ItemId:SubId,...>" />
-  <locale  key="help_key_place"	                             text="Eine Auflistung von Typen ist möglich über <ItemId:SubId,ItemId:SubId,...>" />
-  <locale  key="help_key_interact"	                         text="Eine Auflistung von Typen ist möglich über <ItemId:SubId,ItemId:SubId,...>" />
+  <!-- Plugins Command Description -->
+  <locale key="description"	                                 text="Erlaubt es EventZonen zu nutzen und diesen diverse verschiedene Aufgaben zuzuweisen" />
+
+
+  <!-- Help System Non Timed -->
+  <locale  key="help_key_break"	                             text="Eine Auflistung von Typen ist möglich über &lt;ItemId:SubId,ItemId:SubId,...&gt;" />
+  <locale  key="help_key_place"	                             text="Eine Auflistung von Typen ist möglich über &lt;ItemId:SubId,ItemId:SubId,...&gt;" />
+  <locale  key="help_key_interact"	                         text="Eine Auflistung von Typen ist möglich über &lt;ItemId:SubId,ItemId:SubId,...&gt;" />
   <locale  key="help_key_blockdamagebyentitys"	             text="Keine zusätzliche Hilfe vorhanden!" />
   <locale  key="help_key_playerversusplayer"	               text="Keine zusätzliche Hilfe vorhanden!" />
-  <locale  key="help_key_drop"	                             text="Eine Auflistung von Typen ist möglich über <ItemId:SubId,ItemId:SubId,...>" />
-  <locale  key="help_key_pickup"	                           text="Eine Auflistung von Typen ist möglich über <ItemId:SubId,ItemId:SubId,...>" />
+  <locale  key="help_key_drop"	                             text="Eine Auflistung von Typen ist möglich über &lt;ItemId:SubId,ItemId:SubId,...&gt;" />
+  <locale  key="help_key_pickup"	                           text="Eine Auflistung von Typen ist möglich über &lt;ItemId:SubId,ItemId:SubId,...&gt;" />
   <locale  key="help_key_denyteleport"	                     text="Keine zusätzliche Hilfe vorhanden!" />
+  <locale  key="help_key_denyitemspawn"	                     text="Eine Auflistung von Typen ist möglich über &lt;ItemId:SubId,ItemId:SubId,...&gt;" />
   
   <!-- Help System Timed -->
   <locale  key="help_key_noenter"	                           text="Keine zusätzliche Hilfe vorhanden!" />
   <locale  key="help_key_noleave"	                           text="Keine zusätzliche Hilfe vorhanden!" />
   <locale  key="help_key_entermessage"	                     text="Die Nachrichten unterstützen auch Farbe (z.B. &amp;c für Rot)" />
   <locale  key="help_key_leavemessage"	                     text="Die Nachrichten unterstützen auch Farbe (z.B. &amp;c für Rot)" />
-  <locale  key="help_key_potion"	                           text="Als Argument entweder 'clear', '<EffektName>' oder '<EffektName> <Dauer> <Stärke>'" />
-  <locale  key="help_key_teleport"	                         text="Hier kann '<Welt> <X> <Y> <Z> [<Yaw> <Pitch>]' angegeben werden" />
-                                                                 text="§darkgreenDie EventZone §gold{0}§darkgreen wurde erstellt!" />
+  <locale  key="help_key_potion"	                           text="Als Argument entweder 'clear', '&lt;EffektName&gt;' oder '&lt;EffektName&gt; &lt;Dauer&gt; &lt;Stärke&gt;'" />
+  <locale  key="help_key_teleport"	                         text="Hier kann '&lt;Welt&gt; &lt;X&gt; &lt;Y&gt; &lt;Z&gt; [&lt;Yaw&gt; &lt;Pitch&gt;]' angegeben werden" />
+  <locale  key="help_key_spleef"	                           text="Es muss ein Item angegeben werden z.B. eine Schaufel bzw. die Id 269" />
+  
+  <!-- Shared Messages -->
+  <locale  key="shared_unknowneventzone"	                   text="§redDie EventZone §gold{0}§red wurde nicht gefunden!" />
+  <locale  key="shared_unknowneventkey"	                     text="§redDie Einstellung §gold{0}§red wurde nicht gefunden!" />
+  <locale  key="shared_collisionzone"	                       text="§redDie EventZone killidiert mit der anderen EventZone §gold{0}§red!" />
+  <locale  key="shared_eventzoneadd"	                       text="§darkgreenDie EventZone §gold{0}§darkgreen wurde erstellt!" />
    
   <!-- Commands -->
   <locale  key="eventzonecommand_add"	                       text="§darkgreenErstellung einer Event-Zone {If,{0}}§greengestartet{Else}§redabgebrochen{EndIf}§darkgreen!" />
