@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <worldlogger>
+  <!-- Plugins Command Description -->
+  <locale key="description"	                                text="Zeichnet Blockinformatione ond Cheschtelog uf." />
+ 
   <!-- Log System -->
   <locale  key="coords"	                                    text="§gold{If,{0}}Block{Else}Container{EndIf}§darkgreen Info för §gold{1} {2}x {3}y {4}z" />
   <locale  key="block"	                                    text="§gold{Date,dd.MM.yyyy HH:mm,{0}} -> ({If,{1}}Gesetzt{Else}Abgebaut{EndIf}) {2} §green| {3}:{4}" />
