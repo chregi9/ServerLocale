@@ -1,15 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <modcontrol>
+  <!-- Plugins Command Description -->
+  <locale key="description"	                                text="Verwaltet alli Date wos Plugin för de Server notzt. (Plugin API)" />
+
+
+  <!-- Localized Say Command Outputs -->
+  <locale key="lsay_backupscreated"	                        text="§darkgreen[§gold{ServerName}§darkgreen] §goldBackups send erstellt ond gspeicheret worde..." />
+  <locale key="lsay_mapsgenerated"	                        text="§darkgreen[§gold{ServerName}§darkgreen] §golCharte send generiert worde..." />
+ 
   <!-- Server Login and Logout System -->
-  <locale  key="isfull"	                                     text="§redEs sind alle Slots uf dem Server beleid!" />
+  <locale  key="isfull"	                                     text="§redEs send alle Slots uf dem Server beleid!" />
   
   <!-- Shared Messages -->
   <locale  key="shared_defaultstop"	                         text="§redDe Server werd abegfahre!" />
   
   <!-- Commands -->
   <locale  key="maintenancecommand"	                         text="{If,{0}}§greenWartig aktiviert!{Else}§redWartig deaktiviert!{EndIf}" />
-  <locale  key="maintenancecommand_message"	                 text="§darkgreenDi Wartigsnochrecht esch gsetzt uf: §gold{0}" />
   
+  <locale  key="maintenancecommand_message"	                 text="§darkgreenDi Wartigsnochrecht esch gsetzt uf: §gold{0}" />
+  	<locale key="pluginscommand_list_count"          					text="§darkgreenAuf §gold{0}§darkgreen sind §gold{1}§darkgreen Plugins installiert:" />
+	<locale key="pluginscommand_list_plugins"          				text="§darkgreenPlugins: §gold{0}" />
+	<locale key="pluginscommand_list_info"                    text="§green-&gt; §goldMehr Informationen: §red/plugins &lt;Plugin-Name&gt;" />
+	<locale key="pluginscommand_plugin_author"          			text="§darkgreenPlugin §gold{0}§darkgreen programmiert von §gold{1}§darkgreen:" />
+	<locale key="pluginscommand_plugin_version"          			text="§greenVersion: §gold{0}§darkgreen{If,{1}}, kompiliert am §gold{Date,dd.MM.yyyy HH:mm,{2}}{EndIf}" />
+	<locale key="pluginscommand_plugin_website"          			text="§greenWebseite: §gold{0}" />
+	<locale key="pluginscommand_plugin_description"          	text="§greenAufgabe: §gold{0}" />
+	<locale key="pluginscommand_error"          							text="§redDas angegebene Plugin wurde nicht gefunden!" />
+  
+
   <locale  key="reloadcommand"	                             text="§grayLade §darkgray{0} §grayneu..." />
   
   <locale  key="saveallcommand_save"	                       text="§graySpeicher §darkgrayWälte§gray..." />
