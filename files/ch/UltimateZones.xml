@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ultimatezones>
+  <!-- Plugins Command Description -->
+  <locale key="description"	                                 text="Grosses Zoneplugin met Groppen ond Kindzonen und enere umfangriche Rächteverwaltig" />
+ 
   <!-- Zone Adding -->
   <locale  key="add_child_positionerror"	                   text="§redDi Position befendet sech nöd ennerhalb vo de öbergordnete Groppe oder Zone!" />
   <locale  key="add_collide_child"	                         text="§redDi Zone kollidiert met de Zone §gold{0}§red vo de Groppe §gold{1}§red!" />
@@ -35,9 +38,9 @@
   <locale  key="groupcommand_group_list"	                   text="§darkgreenEs send §gold{0}§darkgreen Standarträcht för die Groppe §gold{1}§darkgreenvergeben: §gold{2}worde" />
   <locale  key="groupcommand_group_list_empty"	             text="§redEs send besher kei Standarträcht vergeh worde!" />
   <locale  key="groupcommand_list"	                         text="§darkgreenEs ged §gold{0}§darkgreen Rechte wo vergeh wärde chönd: §gold{1}" />
-  <locale  key="groupcommand_info"	                         text="§darkgreenDie Groppe §gold{0} beinhaltet §gold{1}§darkgreen Hauptzone ond §gold{2}§darkgreen Kindzonen:" />
-  <locale  key="groupcommand_info_parent"	                   text="§darkgreenHauptzone §gold{0} zfende bi §gold{1}§darkgreenx §gold{2}§darkgreeny §gold{3}§darkgreenz" />
-  <locale  key="groupcommand_info_child"	                   text="§darkgreenKindzone §gold{0} vo de Zone {1} fendsch bi §gold{2}§darkgreenx §gold{3}§darkgreeny §gold{4}§darkgreenz" />
+  <locale  key="groupcommand_info"	                         text="§darkgreenDie Groppe §gold{0}§darkgreen beinhaltet §gold{1}§darkgreen Hauptzone ond §gold{2}§darkgreen Kindzonen:" />
+  <locale  key="groupcommand_info_parent"	                   text="§darkgreenHauptzone §gold{0}§darkgreen zfende bi §gold{1}§darkgreenx §gold{2}§darkgreeny §gold{3}§darkgreenz" />
+  <locale  key="groupcommand_info_child"	                   text="§darkgreenKindzone §gold{0}§darkgreen vo de Zone {1} fendsch bi §gold{2}§darkgreenx §gold{3}§darkgreeny §gold{4}§darkgreenz" />
  
   <locale  key="rightscommand_group_list"	                   text="§darkgreenFör die Groppe §gold{0}§darkgreen send Rächt verteilt worde a: §gold{1}" />  
   <locale  key="rightscommand_group_list_empty"	             text="§redEs send besher kei Rächt vergeh worde!" />
