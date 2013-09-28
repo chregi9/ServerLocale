@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <basecontrol>
+  <!-- Plugins Command Description -->
+  <locale key="description"	                                text="Beinhaltet verschedeni Befehl sowie Features{newline}wo ned i anderi Plugins ghöred ." />
+
   <!-- Login and Logout System -->
   <locale  key="login"	                                    text="§yellow{0} esch em Spel biträte." />
   <locale  key="logout"	                                    text="§yellow{0} hets Spel verlo." />
