@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <eventhandler>
+  <!-- Plugins Command Description -->
+  <locale key="description"	                                 text="Kömeret sech um diversi Ufgabe om Spleerläbniss z'verbessere" />
+ 
   <!-- Shared Messages -->
   <locale  key="shared_missingrights"	                       text="§redDu musch dech zersch Freischalte lo um Teilzneh!" />
   <locale  key="shared_destroydepth"	                       text="§redI öffentgleche Gebiet chasch du onder §gold{0}§red kei §gold{1}§red about werde!" />
