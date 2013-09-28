@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <chatcontrol>
+  <!-- Plugins Command Description -->
+  <locale key="description"	                                 text="Kümmeret sech om de Chat, Privati Nochrechte, Whispers ond Chaträume" />
+
   <!-- Ignore System -->
   <locale  key="ignore"	                                     text="§gold{0}§red ignoriert dini Nochrechte!" />
   
