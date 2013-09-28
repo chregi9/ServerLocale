@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <funtools>
+ <!-- Plugins Command Description -->
+  <locale key="description"	                              text="Beenhaltet alli Befehl wo ned zwengend erforderlech send" />
+ 
   <locale  key="error"	                                  text="§redEs esch en Fehler bi der Verarbeitig ufträte" />
   
   <locale  key="crashcommand_crash"	                      text="§gold{0}§darkgreen hät de Client vo §gold{1}§darkgreen gecrashed!" />
