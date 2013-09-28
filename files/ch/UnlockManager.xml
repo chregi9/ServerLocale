@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <unlockmanager>
+  <!-- Plugins Command Description -->
+  <locale key="description"	                                text="Kömmert sech das neui Speler befördert werde chönd" />
+
   <!-- Unlock System -->
   <locale  key="unlock_login_guest"	                        text="§greenDin zuständige Freischalter esch weder online!" />
   <locale  key="unlock_login_staff"	                        text="§greenDin Gast esch weder online!" />
