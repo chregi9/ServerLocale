@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <antiidle>
+ <!-- Plugins Command Description -->
+  <locale key="description"	                                text="Werft de Speler bi Inaktivität us em Spel" />
+  
   <!-- Anti Idle System -->
   <locale  key="kick"	                                      text="§redDu bisch wäge inaktivität us em Spel gworfe worde!" />
   
