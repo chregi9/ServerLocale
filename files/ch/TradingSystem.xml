@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <tradingsystem>
-	<locale key="tradecommand_nostore_self"															text="§redDu hast momentan keine Reservierung für einen Laden am laufen!" />
+        <!-- Plugins Command Description -->
+        <locale key="description"	                                          text="Erlaubt s'Erstelle vo Läde met Villagern ond s'handle met dene" />
+
+        <locale key="tradecommand_nostore_self"															text="§redDu hast momentan keine Reservierung für einen Laden am laufen!" />
 	<locale key="tradecommand_nostore_other"														text="§gold{0}§red hat keinen Laden reserviert!" />
 	<locale key="tradecommand_hasstore"																	text="§redDu hast bereits eine Reservierung am laufen. Du kannst nur einen Laden reservieren!" />
 	<locale key="tradecommand_claim_chest"															text="§redDu musst eine Kiste ansehen um eine Reservierung vorzunehmen!" />
