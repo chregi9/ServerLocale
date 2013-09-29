@@ -46,6 +46,9 @@
   <locale  key="measurecommand_set"	                        text="§darkgreenMeasure esch {If,{0}}§greenaktiviert{Else}§reddeaktiviert{EndIf}§darkgreen!" />
   <locale  key="measurecommand_info"	                      text="§darkgreenKlick met emene §gold{0}§darkgreen sowohl Rächts als au Lenks uf Blöck um en Bereich z'makiere!{newline}De Bereich chan nachträglich weder bearbeitet werde" />
   
+  <locale  key="passwordcommand_success"	                  text="§greenDu hesch erfolgrich dis Passwort akutalisiert!"/>
+  <locale  key="passwordcommand_error"	                    text="§reds'Passwort mus medestens §gold{0}§redZeiche ha ond dörf maximal §gold{1}§red Zeiche lang si!" />
+  
   <locale  key="playerconfig_set"	                          text="§darkgreenDer Wärt §gold{0}§darkgreen esch {If,{1}}§greenaktiviert{Else}§reddeaktiviert{EndIf}§darkgreen!" />
   
   <locale  key="playerversusplayercommand_on_success"	      text="§darkgreenDis PvP esch aktiviert!{newline}Du chasch es i {Time,{0}} deaktivieren!" />
