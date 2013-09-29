@@ -6,7 +6,7 @@
 
   <!-- Localized Say Command Outputs -->
   <locale key="lsay_backupscreated"	                        text="§darkgreen[§gold{ServerName}§darkgreen] §goldBackups send erstellt ond gspeicheret worde..." />
-  <locale key="lsay_mapsgenerated"	                        text="§darkgreen[§gold{ServerName}§darkgreen] §golCharte send generiert worde..." />
+  <locale key="lsay_mapsgenerated"	                        text="§darkgreen[§gold{ServerName}§darkgreen] §goldCharte send generiert worde..." />
  
   <!-- Server Login and Logout System -->
   <locale  key="isfull"	                                     text="§redEs send alle Slots uf dem Server beleid!" />
