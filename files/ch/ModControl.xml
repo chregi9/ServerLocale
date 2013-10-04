@@ -15,9 +15,16 @@
   <locale  key="shared_defaultstop"	                         text="§redDe Server werd abegfahre!" />
   
   <!-- Commands -->
-  <locale  key="maintenancecommand"	                         text="{If,{0}}§greenWartig aktiviert!{Else}§redWartig deaktiviert!{EndIf}" />
+ <locale key="inventorycommand_clear_other"	              text="§gold{0}§darkgreen het s'Inventar vo §gold{1}§darkgreen gleert" />
+  <locale key="inventorycommand_clear_self"	                text="§greenDis Inventar esch gleert worde!" />
+  <locale key="inventorycommand_"	                          text="" />
+  <locale key="inventorycommand_"	                          text="" />
+  <locale key="inventorycommand_"	                          text="" />
+  <locale key="inventorycommand_"	                          text="" />
   
+  <locale  key="maintenancecommand"	                         text="{If,{0}}§greenWartig aktiviert!{Else}§redWartig deaktiviert!{EndIf}" />
   <locale  key="maintenancecommand_message"	                 text="§darkgreenDi Wartigsnochrecht esch gsetzt uf: §gold{0}" />
+
   	<locale key="pluginscommand_list_count"          					text="§darkgreenAuf §gold{0}§darkgreen sind §gold{1}§darkgreen Plugins installiert:" />
 	<locale key="pluginscommand_list_plugins"          				text="§darkgreenPlugins: §gold{0}" />
 	<locale key="pluginscommand_list_info"                    text="§green-&gt; §goldMehr Informationen: §red/plugins &lt;Plugin-Name&gt;" />
