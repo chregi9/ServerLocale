@@ -6,7 +6,11 @@
   <locale  key="error"	                                  text="§redEs esch en Fehler bi der Verarbeitig ufträte" />
   
   <locale  key="crashcommand_crash"	                      text="§gold{0}§darkgreen hät de Client vo §gold{1}§darkgreen gecrashed!" />
-  
+
+
+	<locale key="helmetcommand_success"										  text="§greenS'Aktuelle usgwählte Item isch jetzt als Helm gsetzt worde!" />
+	<locale key="helmetcommand_error"												text="§redDu hesch keis oder es ungöltigs Item usgwählt!" />
+    
 	<locale key="speed_get"														      text="§darkgreenFluggschwendikeit vo §gold{0}§darkgreen gänderet uf §gold{1}§darkgreen!{newline}§darkgreenLaufgschwendigkeit vo §gold{0}§darkgreen uf §gold{2}§darkgreen gsetzt!" />
   <locale key="speed_fly"										              text="§darkgreenFluggschwendikeit vo §gold{0}§darkgreen isch uf §gold{1}§darkgreen gsetzt wprde!" />
   <locale key="speed_walk"										            text="§darkgreenLaufgschwendigkeit vo §gold{0}§darkgreen isch uf §gold{1}§darkgreen gesetzt worde!" />
