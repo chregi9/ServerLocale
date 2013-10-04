@@ -15,13 +15,6 @@
   <locale  key="shared_defaultstop"	                         text="§redDe Server werd abegfahre!" />
   
   <!-- Commands -->
- <locale key="inventorycommand_clear_other"	              text="§gold{0}§darkgreen het s'Inventar vo §gold{1}§darkgreen gleert" />
-  <locale key="inventorycommand_clear_self"	                text="§greenDis Inventar esch gleert worde!" />
-  <locale key="inventorycommand_"	                          text="" />
-  <locale key="inventorycommand_"	                          text="" />
-  <locale key="inventorycommand_"	                          text="" />
-  <locale key="inventorycommand_"	                          text="" />
-  
   <locale  key="maintenancecommand"	                         text="{If,{0}}§greenWartig aktiviert!{Else}§redWartig deaktiviert!{EndIf}" />
   <locale  key="maintenancecommand_message"	                 text="§darkgreenDi Wartigsnochrecht esch gsetzt uf: §gold{0}" />
 
