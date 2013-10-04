@@ -22,6 +22,19 @@
   <locale  key="gamemodecommand_error"	                     text="§redEs esch kei GameMode zo §gold{0}§red gefonde worde!" />
   <locale  key="gamemodecommand_changed"	                   text="§gold{0}§darkgreen hät de GameMode vo §gold{1}§darkgreen gändert uf §gold{2}§darkgreen geändert!" />
 
+  <locale  key="headcommand_success"												 text="§darkgreenEs wurden §gold{0}§darkgreen Köpfe von §gold{1}§darkgreen deinem Inventar zugefügt!" />
+
+  <locale  key="inventorycommand_clear_self"	               text="§greenDis Inventar esch gleert worde!" />
+  <locale  key="inventorycommand_clear_other"	               text="§gold{0}§darkgreen hät s'Inventar vo §gold{1}§darkgreen gleert!" />
+  <locale  key="inventorycommand_save_exist"	               text="§redEs esch bereits es Inventar met em Name §gold{0}§red gespeicheret!" />
+  <locale  key="inventorycommand_save_error"	               text="§redWährend de Speicherig esch en Fehler aufträte!" />
+  <locale  key="inventorycommand_save_success"	             text="§gold{0}§darkgreen hät s'Inventar vo §gold{1}§darkgreen onde §gold{2}§darkgreen i de Datebank gespeicheret!" />
+  <locale  key="inventorycommand_notexist"	                 text="§reds'Inventar §gold{0}§red esch ned gfomde worde!" />
+  <locale  key="inventorycommand_load_success"	             text="§gold{0}§darkgreen het s'Inventar §gold{2}§darkgreen gsetzt bi §gold{1}§darkgreen!" />
+  <locale  key="inventorycommand_delete_success"	           text="§gold{0}§red hät s'Inventar §gold{1}§red erfolgreich gelöscht!" />
+  <locale  key="inventorycommand_get_success"	               text="§darkgreenDu hesch der s'Inventar vo §gold{0}§darkgreen kopiert!" />
+  <locale  key="inventorycommand_set_success"	               text="§gold{0}§darkgreen hed jetzt en Kopie vom Inventar vo §gold{1}§darkgreen dank §gold{2}§darkgreen!" /> 
+
   <locale  key="invisiblecommand_invis"	                     text="§darkgreenUnsichtbarkeit esch {If,{0}}aktiviert{Else}deaktiviert{EndIf}worde" />
 
   <locale  key="kickcommand_kick"	                           text="§gold{0}§darkgreen hät de Speler §gold{1}§darkgreen us em Spel geworfen!{newline}§darkgreenGrund: §gold{2}" />
