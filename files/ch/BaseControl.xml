@@ -42,7 +42,7 @@
   
   <locale  key="languagecommand_error"	                    text="§redDie Sproch §gold{0}§red esch net gfonde worde!" />
   <locale  key="languagecommand_success"	                  text="§darkgreenDini Sproche gänderet worde uf: §gold{0}" />
-   <locale  key="languagecommand_updateinfo"	                text="b§goldTipp: §darkgreenDu chasch sälber entweckelti Sproche aktualisiere öber §gold/language update &lt;Sprache&gt;" />
+  <locale  key="languagecommand_updateinfo"	                text="§goldTipp: §darkgreenDu chasch sälber entweckelti Sproche aktualisiere öber §gold/language update &lt;Sprache&gt;" />
   <locale  key="languagecommand_update_norights"	          text="§redDu chasch nor dini eigeni Sproche aktualisiere!" />
   <locale  key="languagecommand_update_error"	              text="§redAktualisierige fehlgschlage! Fordere en manuelli Aktualisierih bi emene Dev oder Owner a!" />
   <locale  key="languagecommand_update_success"	            text="§greenAktualisierige erfolgrich doregführt! Di aktuelli Version isch jetzt §gold{0}§darkgreen!" />
