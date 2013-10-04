@@ -42,7 +42,16 @@
   
   <locale  key="languagecommand_error"	                    text="§redDie Sproch §gold{0}§red esch net gfonde worde!" />
   <locale  key="languagecommand_success"	                  text="§darkgreenDini Sproche gänderet worde uf: §gold{0}" />
-  
+   <locale  key="languagecommand_updateinfo"	                text="b§goldTipp: §darkgreenDu chasch sälber entweckelti Sproche aktualisiere öber §gold/language update &lt;Sprache&gt;" />
+  <locale  key="languagecommand_update_norights"	          text="§redDu chasch nor dini eigeni Sproche aktualisiere!" />
+  <locale  key="languagecommand_update_error"	              text="§redAktualisierige fehlgschlage! Fordere en manuelli Aktualisierih bi emene Dev oder Owner a!" />
+  <locale  key="languagecommand_update_success"	            text="§greenAktualisierige erfolgrich doregführt! Di aktuelli Version isch jetzt §gold{0}§darkgreen!" />
+  <locale  key="languagecommand_info_locale"	              text="§darkgreenInformatione zo de Sproche §gold{0}§darkgreen met em Tag §gold{1}§darkgreen:" />
+  <locale  key="languagecommand_info_author"	              text="§darkgreenAutor: §gold{0}" />
+  <locale  key="languagecommand_info_description"	          text="§darkgreenBeschreibung: §gold{0}" />
+  <locale  key="languagecommand_info_version"	              text="§darkgreenVersion: §gold{0}" />
+  <locale  key="languagecommand_info_lastupdate"	          text="§darkgreenZletzt  aktualisiert: §gold{Date,dd.MM.yyyy 'um' HH:mm,{0}}" />
+ 
   <locale  key="measurecommand_set"	                        text="§darkgreenMeasure esch {If,{0}}§greenaktiviert{Else}§reddeaktiviert{EndIf}§darkgreen!" />
   <locale  key="measurecommand_info"	                      text="§darkgreenKlick met emene §gold{0}§darkgreen sowohl Rächts als au Lenks uf Blöck um en Bereich z'makiere!{newline}De Bereich chan nachträglich weder bearbeitet werde" />
   
