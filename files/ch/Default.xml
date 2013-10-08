@@ -14,7 +14,8 @@
   <locale key="unknowntime"				    text="§redKonnte Zitagab§gold{0}§red nöd uflösen!" />
   <locale key="unknowngroup"				  text="§redDi Groppe §gold{0}§red esch nöt gfonde worde!" />
   <locale key="unknownzonetype"				text="§redDe Zonetyp §gold{0}§red esch nöd gfonde worde!" />
-  
+  <locale key="unknownerror"				  text="§redEs esch en Onbekannte Fehler ufträtte!" />
+ 
   <!-- Zone System Find and Create Messages -->
   <locale key="zone_posa_cuboid"	    text="§darkgreenKlick met emene §gold{0}§darkgreen jetzt de ersti Eckponkt a!" />
   <locale key="zone_posa_sphere"	    text="§darkgreenKlicke met emene §gold{0}§darkgreen jetzt de Mettelponkt a!" />
