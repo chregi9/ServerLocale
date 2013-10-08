@@ -51,7 +51,13 @@
   <locale  key="languagecommand_info_description"	          text="§darkgreenBeschreibung: §gold{0}" />
   <locale  key="languagecommand_info_version"	              text="§darkgreenVersion: §gold{0}" />
   <locale  key="languagecommand_info_lastupdate"	          text="§darkgreenZletzt  aktualisiert: §gold{Date,dd.MM.yyyy 'um' HH:mm,{0}}" />
- 
+
+  <locale  key="logoutcommand_clear"	                      text="§greenDini Logoutnochrecht esch glöscht worde!" />
+  <locale  key="logoutcommand_get"	                        text="§darkgreenDini Logoutnochrecht esch: §yellow{0}" />
+  <locale  key="logoutcommand_get_empty"	                  text="§greenDu hesch kei Logoutnochrecht gsetzt!" />
+  <locale  key="logoutcommand_set_success"	                text="§darkgreenDini Nochrecht esch gesetzt worde uf: §yellow{0}" />
+  <locale  key="logoutcommand_set_error"	                  text="§redDini Logoutnochrecht mus mendestens §gold{0}§red Zeiche bzw. dörf maximal §gold{1}§red Zeiche ha!{newline}Dini Logoutnochrecht esch §gold{2}§red Zeiche lang!" />
+  
   <locale  key="measurecommand_set"	                        text="§darkgreenMeasure esch {If,{0}}§greenaktiviert{Else}§reddeaktiviert{EndIf}§darkgreen!" />
   <locale  key="measurecommand_info"	                      text="§darkgreenKlick met emene §gold{0}§darkgreen sowohl Rächts als au Lenks uf Blöck um en Bereich z'makiere!{newline}De Bereich chan nachträglich weder bearbeitet werde" />
   
