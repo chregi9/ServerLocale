@@ -14,7 +14,12 @@
   <!-- Shared Messages -->
   <locale  key="shared_defaultstop"	                         text="§redDe Server werd abegfahre!" />
   
-  <!-- Commands -->
+  <!-- Commands -->   <locale key="countrycommand_autolocale_get"	              text="§darkgreenNeui Speler erhaltet automatisch Länderspezifischi Anzeigesproche: §gold{If,{0}}Ja{Else}Nein{EndIf}" />
+  <locale key="countrycommand_autolocale_set"	              text="§darkgreenAutmatischi Azeigesproche för neui Speler §gold{If,{0}}aktiviert{Else}deaktiviert{EndIf}" />
+  <locale key="countrycommand_locate"	                      text="§gold{0}§darkgreen befindet sich momentan im Land: §gold{1}§darkgreen, Ländercode: §gold{2}" />
+  <locale key="countrycommand_refresh_success"	            text="§greenDie Datenbank esch erfolgreich aktualisiert worde!" />
+  <locale key="countrycommand_refresh_error"	              text="§redDie Datenbank esch ned aktualisiert worde. Eventuell sind die Daten beschädigt!" />
+  
   <locale  key="maintenancecommand"	                         text="{If,{0}}§greenWartig aktiviert!{Else}§redWartig deaktiviert!{EndIf}" />
   <locale  key="maintenancecommand_message"	                 text="§darkgreenDi Wartigsnochrecht esch gsetzt uf: §gold{0}" />
 
@@ -57,9 +62,9 @@
   <locale  key="setgroupcommand_del_group_success"           text="§darkgreenDe Speler §gold{0} §darkgreenesch us de Groppe §gold{1} §darkgreenentfernt worde." />
   <locale  key="setgroupcommand_del_group_fail"              text="§darkgreenDe Speler §gold{0} §darkgreenesch nöd i dere Groppe §gold{1}§darkgreen." />
   <locale  key="setgroupcommand_del_groups"                  text="§darkgreenDe Speler §gold{0} §darkgreenesch §gold{1} §darkgreenGroppe entfernt." />
-  <locale  key="setgroupcommand_display"                     text="§darkgreenDe Speler §gold{0} §darkgreenhet di Azeigegroppe §gold{1}§darkgreen." />
+  <locale  key="setgroupcommand_display"                     text="§darkgreenDe Speler §gold{0} §darkgreenhet di Azeigegroppe §reset{1}§reset §darkgreen(§reset{2}§darkgreen)." />
   <locale  key="setgroupcommand_copy"                        text="§darkgreenDe Speler §gold{0} §darkgreenhet alli Groppen vo §gold{1}§darkgreen." />
-  <locale  key="setgroupcommand_list_displaygroup"           text="§darkgreenAzeigegroppe: §gold{0}" />
+  <locale  key="setgroupcommand_list_displaygroup"           text="§darkgreenAzeigegroppe: §reset{0}§reset §darkgreen(§reset{1}§darkgreen)" />
   <locale  key="setgroupcommand_list_groups"                 text="§darkgreenGroppen: §gold{0}" />
   
   <locale  key="worldconfigcommand_create_success"           text="§darkgreenDi Wält §gold{0} §darkgreen esch erfolgrich erstellt worde." />
