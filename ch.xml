@@ -99,7 +99,7 @@
   <locale key="tag"	          value="ch" />
   <locale key="description"	  value="Schweizer-Deutsch aus dem Aargau" />
 	<locale key="author"	  		value="chregi9" />
-	<locale key="version"				value="1.04" />
+	<locale key="version"				value="1.04b" />
 
 	<setting key="shortcolor"	  value="false" />
 	<setting key="expressions"	value="true" />
