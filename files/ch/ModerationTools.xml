@@ -34,6 +34,8 @@
   <locale  key="inventorycommand_delete_success"	           text="§gold{0}§red hät s'Inventar §gold{1}§red erfolgreich gelöscht!" />
   <locale  key="inventorycommand_get_success"	               text="§darkgreenDu hesch der s'Inventar vo §gold{0}§darkgreen kopiert!" />
   <locale  key="inventorycommand_set_success"	               text="§gold{0}§darkgreen hed jetzt en Kopie vom Inventar vo §gold{1}§darkgreen dank §gold{2}§darkgreen!" /> 
+  <locale  key="inventorycommand_list"	                     text="§darkgreenEs befend sech §gold{0}§darkgreen Inventare i de Datenbank: §gold{1}" /> 
+  <locale  key="inventorycommand_list_empty"	               text="§redBisher esch i de Datenbank keis Inventar gespeicheret worde!" /> 
 
   <locale  key="invisiblecommand_invis"	                     text="§darkgreenUnsichtbarkeit esch {If,{0}}aktiviert{Else}deaktiviert{EndIf}worde" />
 
