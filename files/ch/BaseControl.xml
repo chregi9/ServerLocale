@@ -5,7 +5,7 @@
 
   <!-- Login and Logout System -->
   <locale  key="login"	                                    text="§yellow{0} esch em Spel biträte." />
-  <locale  key="logout"	                                    text="§yellow{0} hets Spel verlo{If,{1}}({2}§reset§yellow){EndIf}." />
+  <locale  key="logout"	                                    text="§yellow{0} hets Spel verlo{If,{1}} ({2}§reset§yellow){EndIf}." />
   <locale  key="kick"	                                      text="§yellow{0} esch us em Spel gworfe worde!" />
   <locale  key="afkkick"	                                  text="§yellow{0} esch wäge Inaktivität us em Spel gworfe worde!" />
   <locale  key="ban"                                        text="§yellow{0} esch {If,{1}}permanent{Else}temporär{EndIf} ban't!" />
