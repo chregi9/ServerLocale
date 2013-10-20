@@ -19,7 +19,7 @@
   
         <locale key="achievementscommand_nodata"                   text="§redFör §gold{0}§red wurde besher kei Date aufgezeichnet!" />
   <locale key="achievementscommand_hidedata"                 text="§gold{0}§red het sein Errongeschafte för andere Spieler verborge!" />
-  <locale key="achievementscommand_player"                   text="§gold{0}§darkgreen hät §gold{1}§darkgreen(§gold{2}§darkgreen Tipps) vo §gold{3}§darkgreen Errongeschafte erhalte:" /> <!-- Kein 4. Arg. ist korrekt -->
+  <locale key="achievementscommand_player"                    text="§gold{0}§darkgreen hät §gold{1}§darkgreen vo §gold{3}§darkgreen Errongeschafte erhalte:" /> <!-- Kein 4./2. Arg. ist korrekt -->
   
   <locale key="relockcommand_relock"                         text="§gold{0}§red wurde di Errongenschaft §gold{1}§red weder entzogen!" />
   
