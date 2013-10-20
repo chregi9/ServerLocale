@@ -67,10 +67,17 @@
   <locale  key="setgroupcommand_list_displaygroup"           text="§darkgreenAzeigegroppe: §reset{0}§reset §darkgreen(§reset{1}§darkgreen)" />
   <locale  key="setgroupcommand_list_groups"                 text="§darkgreenGroppen: §gold{0}" />
   
-  <locale  key="worldconfigcommand_create_success"           text="§darkgreenDi Wält §gold{0} §darkgreen esch erfolgrich erstellt worde." />
-  <locale  key="worldconfigcommand_create_fail"              text="§redDi Wält §gold{0} §redexistiert bereits." />
-  <locale  key="worldconfigcommand_delete"                   text="§darkgreenDi Wält §gold{0} §darkgreen esch gelöscht worde." />
-  <locale  key="worldconfigcommand_edit"                     text="§darkgreenDi Istellig §gold{0}§darkgreen vo de Wält §gold{1}§darkgreen esch uf §gold{2}§darkgreen geändert worde." />
-  <locale  key="worldconfigcommand_edit_gm_error"            text="§redDe Gamemode §gold{0} §redesch nöd gfonde worde!" />
-  <locale  key="worldconfigcommand_edit_difficulty_error"    text="§redDi Schwerigkeit muss zwösche 0 und 3 lege!" />
+  <locale key="setscoreboardcommand_unknownscoreboard"      text="§redDas Scoreboard §gold{0}§red wurde nöd gfunden!" />
+  <locale key="setscoreboardcommand_empty_list"             text="§redDie angegebenen Spieler wurden nicht gefunden!" />
+  <locale key="setscoreboardcommand_set_success"            text="§darkgreenDas Scoreboard von §gold{0}§darkgreen Spieler(n) wurde auf §gold{1}§darkgreen gesetzt (Manuell)!" />
+  <locale key="setscoreboardcommand_reset_success"          text="§darkgreenDas Scoreboard von §gold{0}§darkgreen Spielern wurde zurückgesetzt (Automatisch)" />
+  <locale key="setscoreboardcommand_get_custom"             text="§gold{0}§darkgreen sein Scoreboard ist momentan auf §gold{1}§darkgreen (Manuell)!" />
+  <locale key="setscoreboardcommand_get_automatic"          text="§gold{0}§darkgreen sein Scoreboard ist nicht gesetzt (Automatisch)." />
+  
+  <locale key="worldconfigcommand_create_success"           text="§darkgreenDie Welt §gold{0}§darkgreen wurde erfolgreich erstellt." />
+  <locale key="worldconfigcommand_create_error"             text="§redDie Welt §gold{0}§red existiert bereits." />
+  <locale key="worldconfigcommand_delete"                   text="§darkgreenDie Welt §gold{0}§darkgreen wurde gelöscht." />
+  <locale key="worldconfigcommand_edit_set"                 text="§darkgreenDie Einstellung §gold{0}§darkgreen der Welt §gold{1}§darkgreen wurde auf §gold{2}§darkgreen geändert." />
+  <locale key="worldconfigcommand_edit_get"                 text="§darkgreenDie Einstellung §gold{0}§darkgreen der Welt §gold{1}§darkgre
+
 </modcontrol>
