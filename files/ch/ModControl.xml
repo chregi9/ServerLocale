@@ -14,7 +14,8 @@
   <!-- Shared Messages -->
   <locale  key="shared_defaultstop"	                         text="§redDe Server werd abegfahre!" />
   
-  <!-- Commands -->   <locale key="countrycommand_autolocale_get"	              text="§darkgreenNeui Speler erhaltet automatisch Länderspezifischi Anzeigesproche: §gold{If,{0}}Ja{Else}Nein{EndIf}" />
+  <!-- Commands -->
+  <locale key="countrycommand_autolocale_get"	              text="§darkgreenNeui Speler erhaltet automatisch Länderspezifischi Anzeigesproche: §gold{If,{0}}Ja{Else}Nein{EndIf}" />
   <locale key="countrycommand_autolocale_set"	              text="§darkgreenAutmatischi Azeigesproche för neui Speler §gold{If,{0}}aktiviert{Else}deaktiviert{EndIf}" />
   <locale key="countrycommand_locate"	                      text="§gold{0}§darkgreen befindet sich momentan im Land: §gold{1}§darkgreen, Ländercode: §gold{2}" />
   <locale key="countrycommand_refresh_success"	            text="§greenDie Datenbank esch erfolgreich aktualisiert worde!" />
