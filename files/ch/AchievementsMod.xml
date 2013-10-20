@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<achievementsmod>
+  <!-- Plugins Command Description -->
+  <locale key="description"                                         text="Erreicht serklaube vo erongeschafte" />
+
+
+  <!-- Shared Messages -->
+  <locale key="shared_unknownachievement"                    text="§redDi Errongeschaft §gold{0}§red esch ned gfonde worde!" />
+  <locale key="shared_unlock"                                text="§darkgreenDu hesch d'Errongeschaft §gold{0}§darkgreen erfolgrich freigschaltet!" />
+  <locale key="shared_relock"                                text="§redDu hesch di Errongeschaft §gold{0}§red verlore!" />
+  
+  <!-- Commands -->
+  <locale key="achievementcommand_list"                      text="§darkgreenEs get §gold{0}§darkgreen Erongeschafte: §gold{1}" />
+  <locale key="achievementcommand_info_name"                 text="§darkgreenErrungenschaft §gold{0}§darkgreen:" />
+  <locale key="achievementcommand_info_status"               text="§darkgreenEigner Stand: {If,{0}}§greenFreigschaltet{Else}§gold{1}%{EndIf} §darkgreen(§gold{2}x§darkgreen freigeschaltet)" />
+  <locale key="achievementcommand_info_description"          text="§darkgreenBeschreibung: §gold{0}" />
+  <locale key="achievementcommand_info_hint"                 text="§goldTipp§darkgreen: Einen Hewis chasch du öber §gold/achievement hint {0}§darkgreen abrüfe!" />
+  <locale key="achievementcommand_hint"                      text="§darkgreenTipp för di Errongeschaft §gold{0}§darkgreen:{newline}§gold{1}" />
+  
+        <locale key="achievementscommand_nodata"                   text="§redFör §gold{0}§red wurde besher kei Date aufgezeichnet!" />
+  <locale key="achievementscommand_hidedata"                 text="§gold{0}§red het sein Errongeschafte för andere Spieler verborge!" />
+  <locale key="achievementscommand_player"                   text="§gold{0}§darkgreen hät §gold{1}§darkgreen(§gold{2}§darkgreen Tipps) vo §gold{3}§darkgreen Errongeschafte erhalte:" /> <!-- Kein 4. Arg. ist korrekt -->
+  
+  <locale key="relockcommand_relock"                         text="§gold{0}§red wurde di Errongenschaft §gold{1}§red weder entzogen!" />
+  
+  <locale key="unlockcommand_unlock"                         text="§gold{0}§darkgreen wurde en Anfroge för di Freischaltig der Errongeschaft §gold{1}§darkgreen gesendet!" />
+</achievementsmod>
+
+ 
+ 
+
+
+ 
+   
+
+Status
+ API
+ Training
+ Shop
+ Blog
+ About
+ 
