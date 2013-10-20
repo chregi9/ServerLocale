@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<warnsystem>
+  <!-- Plugins Command Description -->
+  <locale key="description"         text="Plugin zur Verwaltung des Client-Mods UWMod" />
+
+  <locale key="zonemod_active"         text="§darkgreenDer ZoneMod wurde für alle Spieler {If,{0}}§greenaktiviert{Else}§reddeaktiviert{EndIf}§darkgreen!" />
+  <locale key="zonemod_debug"         text="§darkgreenDer Debug wurde für §gold{0} §darkgreen{If,{1}}§greenaktiviert{Else}§reddeaktiviert{EndIf}§darkgreen!" />
+  <locale key="zonemod_debugdata" text="§darkgreenDer DebugData wurde für §gold{0} §darkgreenauf §gold{1} §darkgreengesetzt!" />
+  <locale key="zonemod_refresh"         text="§darkgreenEs wurde ein Refresh an §gold{0} §darkgreengesendet." />
+  <locale key="zonemod_ban"         text="§redDer Spieler §gold{0} §redkann den ZoneMod nicht mehr benutzen." />
+  <locale key="zonemod_unban"         text="§darkgreenDer Spieler §gold{0} §darkgreenkann den ZoneMod wieder benutzen." />
+  <locale key="zonemod_leet"         text="§darkgreenDer Spieler §gold{0} §darkgreenhat das 1337-Packet erhalten!" />
+  <locale key="zonemod_already_ban"         text="§redDer Spieler §gold{0} §darkgreenist schon {If,{0}}gebannt{Else}entbannt{EndIf}." />
+</warnsystem>
